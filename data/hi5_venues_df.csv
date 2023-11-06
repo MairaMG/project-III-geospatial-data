@@ -1,0 +1,72 @@
+name,address,city,category,distance,lat,lon
+Bar Fluxus,18 Harlan Pl,San Francisco,karaoke,427,37.790297,-122.40514
+Sool Bar and Lounge,323 Grant Ave,San Francisco,karaoke,470,37.789993,-122.405695
+Uno Dos Tacos,595 Market St,San Francisco,bars,42,37.789274,-122.400993
+Tequila Mockingbird,86 2nd St,San Francisco,bars,63,37.78812,-122.40028
+Sammy's on 2nd,84 2nd St,San Francisco,bars,64,37.78812,-122.40028
+Luke's Lobster SoMa,92 2nd St,San Francisco,bars,81,37.788038,-122.40006
+House of Shields,39 New Montgomery St,San Francisco,bars,82,37.788276,-122.401221
+The Sentinel,37 New Montgomery St,San Francisco,bars,82,37.788304,-122.401294
+Flatiron Wines & Spirits,2 New Montgomery St,San Francisco,bars,106,37.78806,-122.401495
+Mixt,560 Mission St,San Francisco,bars,125,37.788743,-122.399384
+Ghirardelli Ice Cream & Chocolate Shop,2 New Montgomery St,San Francisco,bars,133,37.788352,-122.401942
+Palace Hotel,2 New Montgomery St,San Francisco,bars,134,37.788,-122.40185
+Special Olympics Northern CA,109 Stevenson St,San Francisco,clubs,43,37.788428,-122.400943
+111 Minna Gallery,111 Minna St,San Francisco,clubs,172,37.787274,-122.39937
+Harlot,46 Minna St,San Francisco,clubs,186,37.78857,-122.398227
+Meg,1 Sansome St,San Francisco,clubs,258,37.790916,-122.401305
+Local Edition,691 Market St,San Francisco,clubs,266,37.787566,-122.403258
+The Wing San Francisco,115 Sansome St,San Francisco,clubs,281,37.791388,-122.400687
+Rooftop Comedy,530 Howard St,San Francisco,clubs,300,37.788462,-122.397074
+The Wing,115 Sansome St,San Francisco,clubs,302,37.791366,-122.400973
+Temple Nightclub,540 Howard St,San Francisco,clubs,304,37.787893,-122.397255
+Gold Club,650 Howard St,San Francisco,clubs,312,37.785979,-122.399652
+Starbucks,74 New Montgomery St,San Francisco,starbucks,99,37.787664,-122.401113
+Starbucks,44 Montgomery St,San Francisco,starbucks,165,37.789534,-122.401869
+Starbucks,100 1st St,San Francisco,starbucks,274,37.78934,-122.397555
+Starbucks Truck,50 Fremont St,San Francisco,starbucks,374,37.790766,-122.397281
+Starbucks,264 Kearny St,San Francisco,starbucks,387,37.790693,-122.403801
+Starbucks,201 3rd St,San Francisco,starbucks,414,37.784981,-122.39988
+Starbucks,398 Market St,San Francisco,starbucks,423,37.792028,-122.398287
+Starbucks,555 California St,San Francisco,starbucks,468,37.79209,-122.403676
+Starbucks,295 California St,San Francisco,starbucks,493,37.79309,-122.399784
+Starbucks,359 Grant Ave,San Francisco,starbucks,497,37.790448,-122.405722
+Bluestone Lane,55 2nd St,San Francisco,vegan restaurants,23,37.78877,-122.400318
+Peet's Coffee and Tea,595 Market St,San Francisco,vegan restaurants,96,37.789274,-122.400993
+Mixt,560 Mission St,San Francisco,vegan restaurants,125,37.788743,-122.399384
+Bun Mee,650 Market St,San Francisco,vegan restaurants,187,37.788455,-122.402737
+Bluestone Lane Union Square Coffee Shop,685 Market St,San Francisco,vegan restaurants,227,37.787598,-122.40283
+Chipotle Mexican Grill,525 Market St,San Francisco,vegan restaurants,228,37.790483,-122.399272
+Sweetgreen,171 2nd St,San Francisco,vegan restaurants,230,37.787275,-122.398509
+Asha Tea House,17 Kearny St,San Francisco,vegan restaurants,273,37.788118,-122.403721
+illy Caffè,220 Montgomery St,San Francisco,vegan restaurants,327,37.791203,-122.402254
+Fang,660 Howard St,San Francisco,vegan restaurants,341,37.785827,-122.399929
+San Ramon Valley Unified School.dst,582 Market St,San Francisco,elementary school,129,37.789453,-122.401649
+Technapex Elementary School,115 Sansome St,San Francisco,elementary school,313,37.791458,-122.40105
+Golden Gate Restaurant Association Scholarship Fun,720 Market St,San Francisco,elementary school,321,37.787641,-122.403979
+Autodesk Authorized Training Centers Sfsu Downtown Center,425 Market St,San Francisco,elementary school,347,37.791156,-122.398164
+Year On,44 Tehama St,San Francisco,elementary school,361,37.787611,-122.396665
+The Buddy System,111 Maiden Ln,San Francisco,elementary school,423,37.787934,-122.405287
+Education Financing,388 Market St,San Francisco,elementary school,448,37.792234,-122.398156
+Oxford Elementary School,50 Beale St,San Francisco,elementary school,455,37.791248,-122.396521
+Barbizon School Of San Francisco,369 Sutter St,San Francisco,elementary school,523,37.78938,-122.406448
+Helix Medical Communications,343 Sansome St,San Francisco,elementary school,559,37.793637,-122.401608
+Basketball Court,100 McAllister St,San Francisco,basketball stadium,1452,37.781084,-122.414131
+Google Cloud Courtside Lounge 25,,San Francisco,basketball stadium,2535,37.768163,-122.387778
+Chase Center Stadium,1 Warriors Way,San Francisco,basketball stadium,2582,37.767924,-122.387478
+United Club,500 Terry A Francois Blvd,San Francisco,basketball stadium,2594,37.767832,-122.387401
+USF - War Memorial Gymnasium,2100 Golden Gate Ave,San Francisco,basketball stadium,4487,37.778096,-122.445491
+Kezar Pavilion,755 Stanyan St,San Francisco,basketball stadium,5242,37.767456,-122.453888
+Urban Knights,755 Stanyan St,San Francisco,basketball stadium,5245,37.767521,-122.453892
+Cowell Pavilion,,San Francisco,basketball stadium,9544,37.747456,-122.496039
+Kildaire Animal Medical Center,1 Post St,San Francisco,veterinary,180,37.788791,-122.402613
+Law Offices of Peter Roldan,28 2nd St,San Francisco,pet grooming,50,37.788808,-122.401109
+"Doggiedocs.com - Health, Nutrition, Training Tips, & More for your pets",28 2nd St,San Francisco,pet grooming,50,37.788808,-122.401109
+Peter N Hadiaris Attny At Law,55 New Montgomery St,San Francisco,pet grooming,79,37.788119,-122.40114
+Peter Myers Law Firm,625 Market St,San Francisco,pet grooming,91,37.788672,-122.401603
+Sturges Peter W,71 Stevenson St,San Francisco,pet grooming,100,37.789334,-122.399778
+Pet Lifestyle and You,71 Stevenson St,San Francisco,pet grooming,103,37.789307,-122.399704
+"Peter Godden - Tiaa Bank, FSB",560 Mission St,San Francisco,pet grooming,103,37.788808,-122.399388
+Mallon Peter,90 New Montgomery St,San Francisco,pet grooming,125,37.787556,-122.40082
+Peter Keane Esq. Dean of Law School,536 Mission St,San Francisco,pet grooming,156,37.789204,-122.39891
+"Peter L Vestal, Attorney",90 New Montgomery St,San Francisco,pet grooming,161,37.787274,-122.40109

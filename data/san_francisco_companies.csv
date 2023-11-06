@@ -1,0 +1,135 @@
+name,category_code,number_of_employees,total_money_raised,country_code,city,address,zip_code,latitude,longitude,Company_Type
+hi5,games_video,100.0,$52M,USA,San Francisco,55 Second Street,94105,37.788668,-122.400558,Pre-selected
+Zynga,games_video,115.0,$860M,USA,San Francisco,365 Vermont St.,94103,37.765158,-122.404234,Pre-selected
+iWin,games_video,103.0,$0,USA,San Francisco,45 Fremont Street,94105,37.781689,-122.391061,Pre-selected
+Digg,news,,$45M,USA,San Francisco,135 Mississippi St,94107,37.764726,-122.394523,Raised > $1M
+Prosper,finance,,$120M,USA,San Francisco,101 2nd Street,94105,37.78976,-122.402524,Raised > $1M
+Revision3,games_video,,$9M,USA,San Francisco,2415 3rd St,94107,37.757758,-122.388243,Raised > $1M
+Yelp,search,,$90M,USA,San Francisco,706 Mission Street,94103,37.786183,-122.402195,Raised > $1M
+Swivel,search,,$2M,USA,San Francisco,199 Fremont St.,94105,37.789268,-122.395184,Raised > $1M
+Slide,public_relations,,$78M,USA,San Francisco,301 Brannan Street,94107,37.781427,-122.392144,Raised > $1M
+Bebo,web,,$15M,USA,San Francisco,425 Bush Street,94108,37.782103,-122.401116,Raised > $1M
+Dogster,web,,$1M,USA,San Francisco,"555 De Haro Street, #350",,37.762681,-122.400909,Raised > $1M
+Eventbrite,web,,$140M,USA,San Francisco,651 Brannan,94107,37.779507,-122.39071,Raised > $1M
+Seesmic,web,,$16M,USA,San Francisco,1550 Bryant Street,94103,37.775196,-122.419204,Raised > $1M
+Piczo,network_hosting,,$11M,USA,San Francisco,150 California Street,94111,37.793703,-122.398479,Raised > $1M
+hi5,games_video,,$52M,USA,San Francisco,55 Second Street,94105,37.788668,-122.400558,Raised > $1M
+Curse,games_video,,$12M,USA,San Francisco,60 Broadway,94111,37.787092,-122.399972,Raised > $1M
+Viagogo,ecommerce,,$65M,USA,San Francisco,77 Battery St Fl 4,94111-5540,51.500152,-0.126236,Raised > $1M
+Metacafe,games_video,,$50M,USA,San Francisco,128 King Street,94107,37.437328,-122.159928,Raised > $1M
+Snocap,games_video,,$25M,USA,San Francisco,"201 Third Street, 2nd Floor",94103,37.73518,-122.39078,Raised > $1M
+TokBox,messaging,,$26M,USA,San Francisco,501 Second Street,94107,37.779507,-122.39071,Raised > $1M
+Yola,web,,$25M,USA,San Francisco,201 Mission Street,94105,37.7911148,-122.3954751,Raised > $1M
+Kongregate,games_video,,$19M,USA,San Francisco,2 Shaw Alley,94105,37.786942,-122.401245,Raised > $1M
+Kiva,finance,,$9M,USA,San Francisco,"3180 18th Street, Suite 201",94110,37.762125,-122.4147,Raised > $1M
+Zivity,network_hosting,,$8M,USA,San Francisco,329 Bryant Street,94107,37.789488,-122.397593,Raised > $1M
+Trulia,search,,$255M,USA,San Francisco,116 New Montgomery,94501,37.766909,-122.406676,Raised > $1M
+OpenTable,web,,$48M,USA,San Francisco,One Montgomery,,37.785647,-122.405265,Raised > $1M
+Jawbone,hardware,,$403M,USA,San Francisco,99 Rhode Island Street,94103,37.768708,-122.402866,Raised > $1M
+3Jam,mobile,,$4M,USA,San Francisco,365 Vermont St,94103-5060,37.765125,-122.4044034,Raised > $1M
+Rupture,games_video,,$3M,USA,San Francisco,400 2nd Street,94107,37.783898,-122.395234,Raised > $1M
+Whiskey Media,web,,$4M,USA,San Francisco,921 Front St.,94111,37.856331,-122.495222,Raised > $1M
+The Climate Corporation,cleantech,,$109M,USA,San Francisco,201 Third Street,94103,37.782809,-122.394354,Raised > $1M
+Radar Networks,advertising,,$24M,USA,San Francisco,"410 Townsend Street, Suite 150",94107,37.7753,-122.398058,Raised > $1M
+Gydget,web,,$1M,USA,San Francisco,1 Front Street,94111,37.791733,-122.398398,Raised > $1M
+Songbird,mobile,,$11M,USA,San Francisco,2 Shaw Alley,94105,37.787126,-122.39783,Raised > $1M
+BrightRoll,advertising,,$46M,USA,San Francisco,343 Sansome St.,94104,37.794643,-122.401144,Raised > $1M
+Doppelganger,web,,$11M,USA,San Francisco,500 Treat Ave,94141,37.762162,-122.413912,Raised > $1M
+GameLayers,web,,$2M,USA,San Francisco,1 Lombard Street,94111,37.803847,-122.402468,Raised > $1M
+Splunk,software,,$40M,USA,San Francisco,250 Brannan St.,94107,37.78274,-122.390945,Raised > $1M
+Dapper,advertising,,$3M,USA,San Francisco,290 King Street,94107,37.7766184,-122.3938931,Raised > $1M
+HubPages,web,,$8M,USA,San Francisco,95 Minna Street,94105,37.7876952,-122.3991505,Raised > $1M
+Deem,ecommerce,,$467M,USA,San Francisco,301 Howard Street,94105,37.559836,-122.271532,Raised > $1M
+Mobissimo,search,,$1M,USA,San Francisco,631 Howard St. suite 520,94105,37.78624,-122.39897,Raised > $1M
+Shozu,mobile,,$36M,USA,San Francisco,"600 Townsend St., Suite 120E",94103,37.771706,-122.402683,Raised > $1M
+Scrapblog,web,,$10M,USA,San Francisco,110 Sutter,94104,25.752358,-80.25468,Raised > $1M
+Meraki,network_hosting,,$80M,USA,San Francisco,660 Alabama St.,94110,37.392443,-122.072517,Raised > $1M
+Joyent,enterprise,,$112M,USA,San Francisco,One Embarcadero Center,94111,37.856743,-122.480153,Raised > $1M
+Zynga,games_video,,$860M,USA,San Francisco,365 Vermont St.,94103,37.765158,-122.404234,Raised > $1M
+Smaato,advertising,,$18M,USA,San Francisco,"240 Stockton St, 10th Floor",94108,37.78795,-122.40667,Raised > $1M
+Offermatica,software,,$7M,USA,San Francisco,Pier One Bay Three,94111,37.79713,-122.39468,Raised > $1M
+MyNewPlace,web,,$20M,USA,San Francisco,"360 3rd Street,",94107,37.75672,-122.40507,Raised > $1M
+Coverity,enterprise,,$22M,USA,San Francisco,185 Berry Street,94107,37.7759675,-122.3931128,Raised > $1M
+99designs,design,,$35M,USA,San Francisco,447 Battery St.,94111,37.7955307,-122.4005983,Design
+LiveRail,advertising,,$12M,USA,San Francisco,575 Market St.,94105,37.787183,-122.397759,Raised > $1M
+kwiry,mobile,,$1M,USA,San Francisco,47 Kearny St.,94108,37.7885714,-122.4035985,Raised > $1M
+SignalDemand,software,,$30M,USA,San Francisco,"101 California Street, Suite 1950",94111,37.79315,-122.39848,Raised > $1M
+SlideShare,web,,$3M,USA,San Francisco,"490 2nd St, 301",94107,37.776878,-122.400934,Raised > $1M
+Wikimedia Foundation,nonprofit,,$74M,USA,San Francisco,149 New Montgomery St.,94105,37.76785,-122.392839,Raised > $1M
+Placecast,mobile,,$8M,USA,San Francisco,165 Page St.,94102,37.773688,-122.423468,Raised > $1M
+Obvious,web,,$2M,USA,San Francisco,164 South Park Street,94107,37.78115,-122.39481,Raised > $1M
+Marin Software,advertising,,$100M,USA,San Francisco,123 Mission St.,94105,37.792083,-122.3946404,Raised > $1M
+SquareTrade,hardware,,$248M,USA,San Francisco,575 Market Street,94105,37.789551,-122.40036,Raised > $1M
+GitHub,software,,$100M,USA,San Francisco,275 Brannan St.,94107,37.775196,-122.419204,Raised > $1M
+Serious Business,games_video,,$4M,USA,San Francisco,580 Market Street,94104,37.7893215,-122.4013624,Raised > $1M
+Tealeaf,advertising,,$12M,USA,San Francisco,45 Fremont St.,94105,37.791242,-122.397133,Raised > $1M
+Kabam,games_video,,$125M,USA,San Francisco,795 Folsom Street,94107,37.3944561,-122.0785314,Raised > $1M
+Zinch,web,,$5M,USA,San Francisco,"600 Townsend St, East Building",94103,40.234451,-111.658656,Raised > $1M
+Citizen Sports,games_video,,$10M,USA,San Francisco,525 Brannan St,94107,37.777513,-122.397044,Raised > $1M
+Zinio,news,,$27M,USA,San Francisco,114 Sansome Street,94104,37.7915,-122.40045,Raised > $1M
+TRUSTe,enterprise,,$37M,USA,San Francisco,835 Market Street,94103,37.7886685,-122.4005576,Raised > $1M
+Jambool,finance,,$6M,USA,San Francisco,501 Folsom St,94105,37.782101,-122.389519,Raised > $1M
+Practice Fusion,health,,$155M,USA,San Francisco,420 Taylor Street,94102,37.7886717,-122.392725,Raised > $1M
+Razz,software,,$10M,USA,San Francisco,208 Utah Street,94103,37.766909,-122.406676,Raised > $1M
+Keibi Technologies,software,,$5M,USA,San Francisco,685 Market Street,94105,37.787646,-122.402759,Raised > $1M
+ON24,web,,$8M,USA,San Francisco,201 3rd Street,94103,37.7850326,-122.4004738,Raised > $1M
+Streetline,hardware,,$40M,USA,San Francisco,49 Stevenson St.,94105,37.782085,-122.409747,Raised > $1M
+Third Age,health,,$1M,USA,San Francisco,25 Stillman Street,94107-1309,37.78302,-122.39469,Raised > $1M
+Carbonetworks,cleantech,,$5M,USA,San Francisco,1700 Montgomery St,94111,37.805289,-122.404448,Raised > $1M
+Airbnb,travel,,$326M,USA,San Francisco,888 Brannan Street,94103,37.77186,-122.40556,Raised > $1M
+Sharethrough,advertising,,$11M,USA,San Francisco,394 Pacific Ave.,94111,37.7976785,-122.4018163,Raised > $1M
+Paymo,mobile,,$5M,USA,San Francisco,300 Broadway Street,94133,37.798684,-122.40264,Raised > $1M
+Recommind,enterprise,,$15M,USA,San Francisco,650 California Street,94108,37.796903,-122.404904,Raised > $1M
+Demandbase,analytics,,$33M,USA,San Francisco,301 Howard Street,94105,37.796843,-122.400346,Raised > $1M
+Yammer,enterprise,,$142M,USA,San Francisco,1355 Market St,94103,37.776246,-122.4179223,Raised > $1M
+Telespree,software,,$1M,USA,San Francisco,185 Berry Street,,37.777092,-122.391011,Raised > $1M
+ConnectSolutions,enterprise,,$10M,USA,San Francisco,731 Market Street,94103,37.580093,-122.347745,Raised > $1M
+Lolapps,web,,$4M,USA,San Francisco,116 New Montgomery,94105,37.7870923,-122.3999719,Raised > $1M
+InnerRewards,ecommerce,,$1M,USA,San Francisco,731 Market Street,94103,37.78691,-122.404403,Raised > $1M
+nCircle Network Security,software,,$6M,USA,San Francisco,101 Second Street,94105,37.75672,-122.40507,Raised > $1M
+Brightstorm,games_video,,$6M,USA,San Francisco,"685 Market St. Street, Suite 270",94105,37.804619,-122.371203,Raised > $1M
+Mindjet,software,,$15M,USA,San Francisco,1160 Battery Street East,94111,50.095312,9.049981,Raised > $1M
+Webtab,mobile,,$2M,USA,San Francisco,847 Sansome Street,94111,37.79811,-122.4023,Raised > $1M
+GotGame,games_video,,$1M,USA,San Francisco,1 Bluxome Place,94107,37.77772,-122.395785,Raised > $1M
+Emotive Communications,enterprise,,$14M,USA,San Francisco,345 California Street,94104,37.79255,-122.40002,Raised > $1M
+Lookout,security,,$131M,USA,San Francisco,One Front St,94111,37.79172,-122.39826,Raised > $1M
+KIXEYE,games_video,,$19M,USA,San Francisco,333 Bush Street,94104,37.79049,-122.40286,Raised > $1M
+Twilio,enterprise,,$104M,USA,San Francisco,"645 Harrison, 3rd Floor",94107,37.7898499,-122.4006831,Raised > $1M
+LoopNet,ecommerce,,$50M,USA,San Francisco,185 Berry Street,94107,37.7759421,-122.3931139,Raised > $1M
+Fanminder,advertising,,$1M,USA,San Francisco,625 Second Street,94107,37.3792486,-122.1151274,Raised > $1M
+Vontu,software,,$20M,USA,San Francisco,475 Sansome Street,94111,37.79458,-122.4019,Raised > $1M
+Soma Networks,network_hosting,,$51M,USA,San Francisco,650 Townsend Street,94103,37.7710402,-122.4026325,Raised > $1M
+YieldBuild,advertising,,$6M,USA,San Francisco,95 Minna St,94105-3029,37.7877967,-122.3989376,Raised > $1M
+Clikthrough,software,,$2M,USA,San Francisco,414 Jackson St.,94111,37.7965781,-122.4022856,Raised > $1M
+Envivio,software,,$59M,USA,San Francisco,"400 Oyster Point Blvd., Suite 325",94080,37.665469,-122.38222,Raised > $1M
+Klout,social,,$40M,USA,San Francisco,77 Stillman St.,94103,34.0497638,-118.2474287,Raised > $1M
+Applied Identity,advertising,,$33M,USA,San Francisco,456 Montgomery,94104,37.79347,-122.40267,Raised > $1M
+Cognitive Networks,network_hosting,,$6M,USA,San Francisco,1663 Mission Street,94103,37.77121,-122.41949,Raised > $1M
+Double Fusion,web,,$59M,USA,San Francisco,"300 Beale Street,",94105,37.7887135,-122.3927145,Raised > $1M
+5th Finger,mobile,,$7M,USA,San Francisco,222 Sutter St Suite 450,94108,37.7900992,-122.4021988,Raised > $1M
+SmartTurn,advertising,,$5M,USA,San Francisco,177 Fremont St.,94105,37.789801,-122.395327,Raised > $1M
+SpongeFish,web,,$2M,USA,San Francisco,"599 3rd St,",94107,37.7800788,-122.3943096,Raised > $1M
+Pulse Entertainment,mobile,,$7M,USA,San Francisco,900 Kearny St. Suite 300,94133,37.796396,-122.404869,Raised > $1M
+Voxer LLC,mobile,,$30M,USA,San Francisco,"760 Market Street, 5th Floor",94102,37.78667,-122.40505,Raised > $1M
+Donnorwood Media,web,,$5M,USA,San Francisco,"620 Folsom St, Suite 350",94107,37.785271,-122.397582,Raised > $1M
+Skout,social,,$22M,USA,San Francisco,301 Howard,94105,37.7800539,-122.3912492,Raised > $1M
+Visage Mobile,enterprise,,$14M,USA,San Francisco,500 Sansome Street,94111,37.795141,-122.401194,Raised > $1M
+SuperSecret,web,,$10M,USA,San Francisco,660 4th Street,94107,37.7775896,-122.3956019,Raised > $1M
+Home-Account,finance,,$1M,USA,San Francisco,188 King Street,94107,37.778551,-122.391686,Raised > $1M
+MarkMonitor,security,,$12M,USA,San Francisco,303 Second Street,94107,37.75672,-122.40507,Raised > $1M
+Groxis,,,$4M,USA,San Francisco,402 Jackson Street,94111,37.79662,-122.4019,Raised > $1M
+One Kings Lane,ecommerce,,$113M,USA,San Francisco,1355 Market St,94103,37.77697,-122.41696,Raised > $1M
+Fluid,ecommerce,,$24M,USA,San Francisco,"222 Sutter St., 8th Floor",94108,37.78978,-122.40426,Raised > $1M
+Birst,enterprise,,$64M,USA,San Francisco,153 Kearny Street,94108,37.789471,-122.404113,Raised > $1M
+Square,mobile,,$341M,USA,San Francisco,1455 Market Street,94103,37.7757,-122.41808,Raised > $1M
+Marketcetera,software,,$4M,USA,San Francisco,28 2nd Street,94105,37.788864,-122.4008487,Raised > $1M
+Playboox,software,,$3M,USA,San Francisco,116 New Montgomery St,94105,37.7870283,-122.4000192,Raised > $1M
+Five Prime Therapeutics,biotech,,$117M,USA,San Francisco,1650 Owens Street,94158-2216,37.7676285,-122.393799,Raised > $1M
+Sunrun,cleantech,,$337M,USA,San Francisco,"45 Fremont Street, 32nd Floor",94105,37.7871306,-122.4041075,Raised > $1M
+ACT Biotech,biotech,,$27M,USA,San Francisco,717 Market Street,94103-2103,37.7871306,-122.4041075,Raised > $1M
+Sauce Labs,enterprise,,$14M,USA,San Francisco,500 Third St.,94107,37.75672,-122.40507,Raised > $1M
+Recurrent Energy,cleantech,,$85M,USA,San Francisco,300 California St.,94104,37.805289,-122.404448,Raised > $1M
+Siluria Technologies,nanotech,,$103M,USA,San Francisco,409 Illinois Street,94158,37.4484914,-122.1802812,Raised > $1M
+ZoomSystems,hardware,,$87M,USA,San Francisco,"22 4th Street, Floor 16",94103,37.781689,-122.391061,Raised > $1M
+TeachScape,software,,$16M,USA,San Francisco,71 Stevenson St.,94105,37.7869047,-122.4043924,Raised > $1M
+Roc2Loc,cleantech,,$2M,USA,San Francisco,"66 Mint Street, 3rd Floor",94103,37.782475,-122.407764,Raised > $1M

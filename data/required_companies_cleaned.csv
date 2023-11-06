@@ -1,0 +1,262 @@
+name,category_code,total_money_raised,country_code,city,address,zip_code,latitude,longitude
+Digg,news,$45M,USA,San Francisco,135 Mississippi St,94107,37.764726,-122.394523
+Joost,games_video,$45M,USA,New York,100 5th Ave Fl 6,10011-6903,40.7464969,-74.0094471
+Prosper,finance,$120M,USA,San Francisco,101 2nd Street,94105,37.78976,-122.402524
+Pando Networks,games_video,$11M,USA,New York,520 Broadway,10012,40.722655,-73.99873
+Revision3,games_video,$9M,USA,San Francisco,2415 3rd St,94107,37.757758,-122.388243
+Yelp,search,$90M,USA,San Francisco,706 Mission Street,94103,37.786183,-122.402195
+KickApps,enterprise,$32M,USA,New York,26 W 17th Street,10011,40.7516611,-73.9843328
+Swivel,search,$2M,USA,San Francisco,199 Fremont St.,94105,37.789268,-122.395184
+Slide,public_relations,$78M,USA,San Francisco,301 Brannan Street,94107,37.781427,-122.392144
+Bebo,web,$15M,USA,San Francisco,425 Bush Street,94108,37.782103,-122.401116
+Dogster,web,$1M,USA,San Francisco,"555 De Haro Street, #350",,37.762681,-122.400909
+Eventbrite,web,$140M,USA,San Francisco,651 Brannan,94107,37.779507,-122.39071
+Seesmic,web,$16M,USA,San Francisco,1550 Bryant Street,94103,37.775196,-122.419204
+Piczo,network_hosting,$11M,USA,San Francisco,150 California Street,94111,37.793703,-122.398479
+hi5,games_video,$52M,USA,San Francisco,55 Second Street,94105,37.788668,-122.400558
+Curse,games_video,$12M,USA,San Francisco,60 Broadway,94111,37.787092,-122.399972
+AOL,web,$1B,USA,New York,770 Broadway,10003,40.7311317,-73.9919311
+Viagogo,ecommerce,$65M,USA,San Francisco,77 Battery St Fl 4,94111-5540,51.500152,-0.126236
+Metacafe,games_video,$50M,USA,San Francisco,128 King Street,94107,37.437328,-122.159928
+Dropbox,software,$257M,USA,San Francisco,,94107,37.7909427,-122.4084994
+Snocap,games_video,$25M,USA,San Francisco,"201 Third Street, 2nd Floor",94103,,
+TokBox,messaging,$26M,USA,San Francisco,501 Second Street,94107,37.779507,-122.39071
+Yola,web,$25M,USA,San Francisco,201 Mission Street,94105,37.7911148,-122.3954751
+Kongregate,games_video,$19M,USA,San Francisco,2 Shaw Alley,94105,37.786942,-122.401245
+KIT digital,enterprise,$20M,USA,New York,26 W 17th Street,10011,40.751816,-73.971655
+Kiva,finance,$9M,USA,San Francisco,"3180 18th Street, Suite 201",94110,37.762125,-122.4147
+Fathom Online,advertising,$6M,USA,San Francisco,,,37.775196,-122.419204
+Zivity,network_hosting,$8M,USA,San Francisco,329 Bryant Street,94107,37.789488,-122.397593
+Heavy,web,$33M,USA,New York,500 7th Avenue,10018,40.753385,-73.98962
+Trulia,search,$255M,USA,San Francisco,116 New Montgomery,94501,37.766909,-122.406676
+SpiralFrog,games_video,$45M,USA,New York,95 Morton Street,10014,37.09024,-95.712891
+OpenTable,web,$48M,USA,San Francisco,One Montgomery,,37.785647,-122.405265
+BBE,advertising,$10M,USA,New York,245 Fifth Avenue,10016,40.7445343,-73.9874008
+Tacoda,web,$19M,USA,New York,,,40.757929,-73.985506
+Fotolog,network_hosting,$4M,USA,New York,,,40.757929,-73.985506
+CircleUp,finance,$9M,USA,San Francisco,,,,
+ZocDoc,health,$97M,USA,New York,568 Broadway,10012,,
+Animoto,music,$30M,USA,New York,440 Lafayette St.,,40.72948,-74.000195
+Jawbone,hardware,$403M,USA,San Francisco,99 Rhode Island Street,94103,37.768708,-122.402866
+Mimeo,web,$25M,USA,New York,460 Park Avenue South,10016,40.745216,-73.982807
+3Jam,mobile,$4M,USA,San Francisco,365 Vermont St,94103-5060,37.765125,-122.4044034
+Zannel,web,$16M,USA,San Francisco,,,37.775196,-122.419204
+Rupture,games_video,$3M,USA,San Francisco,400 2nd Street,94107,37.783898,-122.395234
+Whiskey Media,web,$4M,USA,San Francisco,921 Front St.,94111,37.856331,-122.495222
+RayV,games_video,$16M,USA,New York,"150 West 77, Suite 4",,40.781159,-73.978332
+The Climate Corporation,cleantech,$109M,USA,San Francisco,201 Third Street,94103,37.782809,-122.394354
+Tumblr,web,$125M,USA,New York,"419 Park Ave. South, Suite 807",10016,40.743808,-73.983626
+Radar Networks,advertising,$24M,USA,San Francisco,"410 Townsend Street, Suite 150",94107,37.7753,-122.398058
+Payoneer,other,$14M,USA,New York,410 Park Avenue - 15th Floor,10022,40.621591,-73.960717
+eXelate,advertising,$32M,USA,New York,7 West 22nd Street,10010,40.741266,-73.990753
+Gydget,web,$1M,USA,San Francisco,1 Front Street,94111,37.791733,-122.398398
+Songbird,mobile,$11M,USA,San Francisco,2 Shaw Alley,94105,37.787126,-122.39783
+Quigo,advertising,$35M,USA,New York,"90 Park Avenue, 10th Floor",10016,40.907974,-73.84179
+Vringo,software,$37M,USA,New York,780 Third Avenue,10017,40.7550005,-73.9717364
+BrightRoll,advertising,$46M,USA,San Francisco,343 Sansome St.,94104,37.794643,-122.401144
+Doppelganger,web,$11M,USA,San Francisco,500 Treat Ave,94141,37.762162,-122.413912
+Podaddies,advertising,$1M,USA,San Francisco,,94103,37.7726402,-122.4099154
+Taboola,photo_video,$40M,USA,New York,19 W 21 St,10010,,
+GameLayers,web,$2M,USA,San Francisco,1 Lombard Street,94111,37.803847,-122.402468
+WEbook,web,$5M,USA,New York,307 Fifth Avenue,10016,38.984172,-77.095965
+Splunk,software,$40M,USA,San Francisco,250 Brannan St.,94107,37.78274,-122.390945
+SeeToo,enterprise,$1M,USA,New York,,,40.755861,-73.996272
+Paltalk,other,$6M,USA,New York,Church Street Station,10008,,
+Yodle,advertising,$40M,USA,New York,50 West 23rd Street,10010,40.742459,-73.9918126
+Dapper,advertising,$3M,USA,San Francisco,290 King Street,94107,37.7766184,-122.3938931
+CafeMom,network_hosting,$17M,USA,New York,401 Park Ave S,10016-8808,37.09024,-95.712891
+Gilt Groupe,fashion,$236M,USA,New York,2 Park Ave Fl 4,10016-5602,40.74727,-73.9800645
+BeliefNet,web,$7M,USA,New York,115 E 23rd Street,10010,40.740231,-73.985433
+HubPages,web,$8M,USA,San Francisco,95 Minna Street,94105,37.7876952,-122.3991505
+ideeli,ecommerce,$107M,USA,New York,620 8th Ave,10018,40.755978,-73.990396
+WeShow,games_video,$5M,USA,New York,,10017,40.752516,-73.973072
+Deem,ecommerce,$467M,USA,San Francisco,301 Howard Street,94105,37.559836,-122.271532
+Mobissimo,search,$1M,USA,San Francisco,631 Howard St. suite 520,94105,37.78624,-122.39897
+Shozu,mobile,$36M,USA,San Francisco,"600 Townsend St., Suite 120E",94103,37.771706,-122.402683
+Fotolia,advertising,$225M,USA,New York,"41 East 11th Street, 11th Floor",10003,,
+LifeOnKey,web,$10M,USA,New York,419 Lafayette Street,10003,37.09024,-95.712891
+Scrapblog,web,$10M,USA,San Francisco,110 Sutter,94104,25.752358,-80.25468
+Meraki,network_hosting,$80M,USA,San Francisco,660 Alabama St.,94110,37.392443,-122.072517
+Joyent,enterprise,$112M,USA,San Francisco,One Embarcadero Center,94111,37.856743,-122.480153
+yoonew,web,$4M,USA,New York,1412 Broadway Suite 1822,10018,40.75362,-73.986557
+Zynga,games_video,$860M,USA,San Francisco,365 Vermont St.,94103,37.765158,-122.404234
+Smaato,advertising,$18M,USA,San Francisco,"240 Stockton St, 10th Floor",94108,,
+Credit Karma,finance,$33M,USA,San Francisco,,94104,,
+Heroku,enterprise,$13M,USA,San Francisco,,,37.775196,-122.419204
+Offermatica,software,$7M,USA,San Francisco,Pier One Bay Three,94111,,
+MyNewPlace,web,$20M,USA,San Francisco,"360 3rd Street,",94107,,
+Oddcast,web,$4M,USA,New York,134 W. 37th Street,10018,40.752325,-73.988477
+Three Rings,web,$7M,USA,San Francisco,,,37.775196,-122.419204
+Coverity,enterprise,$22M,USA,San Francisco,185 Berry Street,94107,37.7759675,-122.3931128
+MediaTrust,advertising,$21M,USA,New York,"404 Park Avenue South,",10016,40.743662,-73.984268
+Kluster,web,$1M,USA,New York,3rd St & Ave A,10016,40.723652,-73.985281
+Right Media,advertising,$45M,USA,New York,45 West 18th Street,10011,40.74632,-73.982607
+Boonty,games_video,$10M,USA,New York,54 Franklin Street,10013,40.717248,-74.002662
+99designs,design,$35M,USA,San Francisco,447 Battery St.,94111,37.7955307,-122.4005983
+LiveRail,advertising,$12M,USA,San Francisco,575 Market St.,94105,37.787183,-122.397759
+kwiry,mobile,$1M,USA,San Francisco,47 Kearny St.,94108,37.7885714,-122.4035985
+SignalDemand,software,$30M,USA,San Francisco,"101 California Street, Suite 1950",94111,,
+Monitor110,web,$25M,USA,New York,58 E 11th St.,10003,40.732748,-73.992607
+SlideShare,web,$3M,USA,San Francisco,"490 2nd St, 301",94107,37.776878,-122.400934
+CLEAR,travel,$116M,USA,New York,595 Madison Avenue,10022,29.4748,-81.1274
+Wikimedia Foundation,nonprofit,$74M,USA,San Francisco,149 New Montgomery St.,94105,37.76785,-122.392839
+Weplay,web,$13M,USA,New York,156a Reade St,10013,,
+Game Trust,software,$9M,USA,New York,135 West 20th Street,10011,,
+Spongecell,advertising,$10M,USA,New York,"261 Madison Avenue, 14th Floor",10016,37.773727,-122.401537
+Placecast,mobile,$8M,USA,San Francisco,165 Page St.,94102,37.773688,-122.423468
+Undertone,advertising,$40M,USA,New York,340 Madison,10178,40.7509033,-73.9779759
+Obvious,web,$2M,USA,San Francisco,164 South Park Street,94107,,
+Cellfish,web,$60M,USA,New York,215 Lexington Avenue,10016,40.761855,-73.983754
+Marin Software,advertising,$100M,USA,San Francisco,123 Mission St.,94105,37.792083,-122.3946404
+SquareTrade,hardware,$248M,USA,San Francisco,575 Market Street,94105,37.789551,-122.40036
+GitHub,software,$100M,USA,San Francisco,275 Brannan St.,94107,37.775196,-122.419204
+Visible World,advertising,$33M,USA,New York,460 W. 34th St. Floor 14,10001,40.75406,-73.999003
+Aardvark,web,$6M,USA,San Francisco,,94110,37.748676,-122.415813
+Serious Business,games_video,$4M,USA,San Francisco,580 Market Street,94104,37.7893215,-122.4013624
+Tealeaf,advertising,$12M,USA,San Francisco,45 Fremont St.,94105,37.791242,-122.397133
+Kabam,games_video,$125M,USA,San Francisco,795 Folsom Street,94107,37.3944561,-122.0785314
+New Relic,software,$175M,USA,San Francisco,,,37.269175,-119.306607
+Zinch,web,$5M,USA,San Francisco,"600 Townsend St, East Building",94103,40.234451,-111.658656
+Citizen Sports,games_video,$10M,USA,San Francisco,525 Brannan St,94107,37.777513,-122.397044
+[x+1],enterprise,$45M,USA,New York,315 Park Avenue South,10010,40.7455068,-73.982624
+Knewton,education,$105M,USA,New York,100 5th Avenue,10011,40.7310476,-74.0078134
+Zinio,news,$27M,USA,San Francisco,114 Sansome Street,94104,37.7915,-122.40045
+PurePlay,games_video,$15M,USA,San Francisco,,,37.775196,-122.419204
+TRUSTe,enterprise,$37M,USA,San Francisco,835 Market Street,94103,37.7886685,-122.4005576
+Jambool,finance,$6M,USA,San Francisco,501 Folsom St,94105,37.782101,-122.389519
+Epic Advertising,,$48M,USA,New York,512 Seventh Avenue,10018,40.753403,-73.989189
+StartForce,web,$6M,USA,San Francisco,,94109,37.796164,-122.420903
+Practice Fusion,health,$155M,USA,San Francisco,420 Taylor Street,94102,37.7886717,-122.392725
+HealthiNation,web,$12M,USA,New York,35 East 21st Street,10010,40.739341,-73.988357
+Razz,software,$10M,USA,San Francisco,208 Utah Street,94103,37.766909,-122.406676
+Keibi Technologies,software,$5M,USA,San Francisco,685 Market Street,94105,37.787646,-122.402759
+LicenseStream,enterprise,$16M,USA,New York,65 Morton Street,10014,40.7309047,-74.006311
+OkCupid,web,$6M,USA,New York,39 W 14th St,10011-7403,40.7368158,-73.9955426
+Funtactix,games_video,$6M,USA,New York,349 5TH AVE,10016,,
+ON24,web,$8M,USA,San Francisco,201 3rd Street,94103,37.7850326,-122.4004738
+Streetline,hardware,$40M,USA,San Francisco,49 Stevenson St.,94105,37.782085,-122.409747
+Third Age,health,$1M,USA,San Francisco,25 Stillman Street,94107-1309,,
+The Electric Sheep,advertising,$7M,USA,New York,25 W. 36th Street,10018,,
+Hands-On Mobile,mobile,$30M,USA,San Francisco,,,37.775196,-122.419204
+Carbonetworks,cleantech,$5M,USA,San Francisco,1700 Montgomery St,94111,37.805289,-122.404448
+Admeld,advertising,$30M,USA,New York,One Madison Ave,10010,40.755253,-73.992152
+Airbnb,travel,$326M,USA,San Francisco,888 Brannan Street,94103,,
+AppNexus,advertising,$141M,USA,New York,28 W. 23rd Street,10010,40.7250495,-73.9970912
+Sharethrough,advertising,$11M,USA,San Francisco,394 Pacific Ave.,94111,37.7976785,-122.4018163
+Paymo,mobile,$5M,USA,San Francisco,300 Broadway Street,94133,37.798684,-122.40264
+Recommind,enterprise,$15M,USA,San Francisco,650 California Street,94108,37.796903,-122.404904
+MediaVast,,$15M,USA,New York,49 West 27th Street,10001,,
+Stack Exchange,software,$18M,USA,New York,55 Broadway 26 FL,10006,,
+ReTel Technologies,analytics,$1M,USA,San Francisco,,94105,41.78942,-87.596232
+Demandbase,analytics,$33M,USA,San Francisco,301 Howard Street,94105,37.796843,-122.400346
+AdRocket,advertising,$1M,USA,San Francisco,,,37.775196,-122.419204
+Yammer,enterprise,$142M,USA,San Francisco,1355 Market St,94103,37.776246,-122.4179223
+Telespree,software,$1M,USA,San Francisco,185 Berry Street,,37.777092,-122.391011
+ConnectSolutions,enterprise,$10M,USA,San Francisco,731 Market Street,94103,37.580093,-122.347745
+Lolapps,web,$4M,USA,San Francisco,116 New Montgomery,94105,37.7870923,-122.3999719
+Plastyc,finance,$2M,USA,New York,55 Broad Street,10004,,
+InnerRewards,ecommerce,$1M,USA,San Francisco,731 Market Street,94103,37.78691,-122.404403
+Finjan,enterprise,$32M,USA,New York,122 East 42nd Street,10168,37.37027,-121.924053
+Recommind,enterprise,$15M,USA,San Francisco,650 California Street,94108,37.796903,-122.404904
+MediaVast,,$15M,USA,New York,49 West 27th Street,10001,,
+Stack Exchange,software,$18M,USA,New York,55 Broadway 26 FL,10006,,
+ReTel Technologies,analytics,$1M,USA,San Francisco,,94105,41.78942,-87.596232
+Demandbase,analytics,$33M,USA,San Francisco,301 Howard Street,94105,37.796843,-122.400346
+AdRocket,advertising,$1M,USA,San Francisco,,,37.775196,-122.419204
+Yammer,enterprise,$142M,USA,San Francisco,1355 Market St,94103,37.776246,-122.4179223
+Telespree,software,$1M,USA,San Francisco,185 Berry Street,,37.777092,-122.391011
+ConnectSolutions,enterprise,$10M,USA,San Francisco,731 Market Street,94103,37.580093,-122.347745
+Lolapps,web,$4M,USA,San Francisco,116 New Montgomery,94105,37.7870923,-122.3999719
+Plastyc,finance,$2M,USA,New York,55 Broad Street,10004,,
+InnerRewards,ecommerce,$1M,USA,San Francisco,731 Market Street,94103,37.78691,-122.404403
+Finjan,enterprise,$32M,USA,New York,122 East 42nd Street,10168,37.37027,-121.924053
+nCircle Network Security,software,$6M,USA,San Francisco,101 Second Street,94105,,
+Buzzd,mobile,$4M,USA,New York,833 Broadway,10003,40.733928,-73.991334
+Brightstorm,games_video,$6M,USA,San Francisco,"685 Market St. Street, Suite 270",94105,37.804619,-122.371203
+Unigo,education,$2M,USA,New York,21 West 46th Street,10036,40.7568493,-73.9793465
+World Golf Tour,sports,$21M,USA,San Francisco,,94104,,
+Mindjet,software,$15M,USA,San Francisco,1160 Battery Street East,94111,50.095312,9.049981
+Sailthru,public_relations,$48M,USA,New York,160 Varick St.,10013,40.738143,-74.008159
+Webtab,mobile,$2M,USA,San Francisco,847 Sansome Street,94111,,
+GotGame,games_video,$1M,USA,San Francisco,1 Bluxome Place,94107,37.77772,-122.395785
+Emotive Communications,enterprise,$14M,USA,San Francisco,345 California Street,94104,,
+Next Jump,ecommerce,$45M,USA,New York,261 Fifth Avenue,10016,40.7451545,-73.9869549
+Lookout,security,$131M,USA,San Francisco,One Front St,94111,,
+KIXEYE,games_video,$19M,USA,San Francisco,333 Bush Street,94104,,
+Twilio,enterprise,$104M,USA,San Francisco,"645 Harrison, 3rd Floor",94107,37.7898499,-122.4006831
+LoopNet,ecommerce,$50M,USA,San Francisco,185 Berry Street,94107,37.7759421,-122.3931139
+Fanminder,advertising,$1M,USA,San Francisco,625 Second Street,94107,37.3792486,-122.1151274
+Vontu,software,$20M,USA,San Francisco,475 Sansome Street,94111,,
+Soma Networks,network_hosting,$51M,USA,San Francisco,650 Townsend Street,94103,37.7710402,-122.4026325
+YieldBuild,advertising,$6M,USA,San Francisco,95 Minna St,94105-3029,37.7877967,-122.3989376
+Modelinia,web,$5M,USA,New York,"915 Broadway,",10010,40.739867,-73.990024
+SheZoom,network_hosting,$2M,USA,New York,335 Madison Avenue,10017,40.7538639,-73.9785086
+Clikthrough,software,$2M,USA,San Francisco,414 Jackson St.,94111,37.7965781,-122.4022856
+Oberon Media,games_video,$36M,USA,New York,100 Broadway,10005,,
+Envivio,software,$59M,USA,San Francisco,"400 Oyster Point Blvd., Suite 325",94080,37.665469,-122.38222
+Hanger Network In-Home Media,advertising,$18M,USA,New York,1841 Broadway,10023,40.769375,-73.982635
+Robotgalaxy,games_video,$12M,USA,New York,"41 Union Square West,",10003,40.737216,-73.990947
+Klout,social,$40M,USA,San Francisco,77 Stillman St.,94103,34.0497638,-118.2474287
+DigiMeld,web,$2M,USA,New York,"134 W.37th St., 2nd Fl.",10018,,
+Dragonfly,web,$3M,USA,New York,,,40.756054,-73.986951
+Applied Identity,advertising,$33M,USA,San Francisco,456 Montgomery,94104,,
+Cognitive Networks,network_hosting,$6M,USA,San Francisco,1663 Mission Street,94103,,
+Double Fusion,web,$59M,USA,San Francisco,"300 Beale Street,",94105,37.7887135,-122.3927145
+5th Finger,mobile,$7M,USA,San Francisco,222 Sutter St Suite 450,94108,37.7900992,-122.4021988
+SmartTurn,advertising,$5M,USA,San Francisco,177 Fremont St.,94105,37.789801,-122.395327
+SpongeFish,web,$2M,USA,San Francisco,"599 3rd St,",94107,37.7800788,-122.3943096
+SundaySky,software,$37M,USA,New York,242 W. 27th ST,10001,,
+[x+1],enterprise,$45M,USA,New York,315 Park Avenue South,10010,40.7455068,-73.982624
+Pulse Entertainment,mobile,$7M,USA,San Francisco,900 Kearny St. Suite 300,94133,37.796396,-122.404869
+Voxer LLC,mobile,$30M,USA,San Francisco,"760 Market Street, 5th Floor",94102,,
+Donnorwood Media,web,$5M,USA,San Francisco,"620 Folsom St, Suite 350",94107,37.785271,-122.397582
+GridApp Systems,software,$5M,USA,New York,156 5th Avenue,10010,,
+Skout,social,$22M,USA,San Francisco,301 Howard,94105,37.7800539,-122.3912492
+Venda,ecommerce,$26M,USA,New York,"1500 Broadway, 18th Floor",10036,,
+TRAFFIQ,advertising,$18M,USA,New York,462 7th Avenue,10018,40.7429533,-73.9844611
+Traiana,,$15M,USA,New York,51 East 42nd St.,10017,40.752844,-73.978324
+Visage Mobile,enterprise,$14M,USA,San Francisco,500 Sansome Street,94111,37.795141,-122.401194
+TheMarkets,web,$30M,USA,New York,810 Seventh Avenue,10019,40.762674,-73.9821315
+MyWealth,web,$2M,USA,New York,"32 Old Slip,",10005,40.7038257,-74.0083282
+Everyday Health,health,$177M,USA,New York,345 Hudson St,10014,,
+Major League Gaming,games_video,$69M,USA,New York,3 Park Avenue,10016,40.752672,-73.97593
+CogniFit,web,$5M,USA,New York,P.O. Box 7360,10116,47.6023367,-122.2850112
+Imaginova,ecommerce,$15M,USA,New York,470 Park Avenue South,10016,40.7454971,-73.9826042
+Foursquare,mobile,$147M,USA,New York,568 Broadway,10012,,
+SuperSecret,web,$10M,USA,San Francisco,660 4th Street,94107,37.7775896,-122.3956019
+Home-Account,finance,$1M,USA,San Francisco,188 King Street,94107,37.778551,-122.391686
+MarkMonitor,security,$12M,USA,San Francisco,303 Second Street,94107,,
+Groxis,,$4M,USA,San Francisco,402 Jackson Street,94111,,
+One Kings Lane,ecommerce,$113M,USA,San Francisco,1355 Market St,94103,,
+NeoStem,biotech,$11M,USA,New York,420 Lexington Avenue,10170,,
+avVenta,advertising,$20M,USA,New York,155 Avenue of the Americas,10013,,
+Fluid,ecommerce,$24M,USA,San Francisco,"222 Sutter St., 8th Floor",94108,,
+Zencoder,software,$2M,USA,San Francisco,,94103,,
+Birst,enterprise,$64M,USA,San Francisco,153 Kearny Street,94108,37.789471,-122.404113
+Square,mobile,$341M,USA,San Francisco,1455 Market Street,94103,,
+Marketcetera,software,$4M,USA,San Francisco,28 2nd Street,94105,37.788864,-122.4008487
+Simparel,software,$5M,USA,New York,53 West 36th Street,10018,40.750823,-73.985833
+Saavn,games_video,$6M,USA,New York,,10016,40.743877,-73.98618
+Playboox,software,$3M,USA,San Francisco,116 New Montgomery St,94105,37.7870283,-122.4000192
+Five Prime Therapeutics,biotech,$117M,USA,San Francisco,1650 Owens Street,94158-2216,37.7676285,-122.393799
+Vaultive,security,$11M,USA,New York,"100 Broadway, 14th Floor",10005,40.707954,-74.011114
+Quirky,ecommerce,$175M,USA,New York,606 West 28th Street,10012,,
+Sunrun,cleantech,$337M,USA,San Francisco,"45 Fremont Street, 32nd Floor",94105,37.7871306,-122.4041075
+TechnoSpin,cleantech,$8M,USA,New York,601 W 26th St Rm 1260,10001,,
+WorldWide Biggies,games_video,$9M,USA,New York,545 West 45th Street,10036,,
+ACT Biotech,biotech,$27M,USA,San Francisco,717 Market Street,94103-2103,37.7871306,-122.4041075
+Sauce Labs,enterprise,$14M,USA,San Francisco,500 Third St.,94107,,
+Recurrent Energy,cleantech,$85M,USA,San Francisco,300 California St.,94104,37.805289,-122.404448
+Autonomic Technologies,medical,$55M,USA,San Francisco,,,37.775196,-122.419204
+Connectiva Systems,software,$17M,USA,New York,19 W44th Street,10036,40.755531,-73.980861
+Siluria Technologies,nanotech,$103M,USA,San Francisco,409 Illinois Street,94158,37.4484914,-122.1802812
+ZoomSystems,hardware,$87M,USA,San Francisco,"22 4th Street, Floor 16",94103,37.781689,-122.391061
+Exent,games_video,$3M,USA,New York,632 W. 28th St.,10001,40.7523796,-74.005568
+Extricom,network_hosting,$15M,USA,New York,"110 Wall Street, 7th Floor",10005,40.72641,-73.984716
+Palyon Medical,biotech,$21M,USA,New York,250 w 57th Street suite 2707,10107,40.756054,-73.986951
+Scout Labs,enterprise,$4M,USA,San Francisco,,,37.775196,-122.419204
+Teliris,public_relations,$11M,USA,New York,"100 William Street, Suite 1825",10038,42.9029654,-78.883572
+WiNetworks,mobile,$19M,USA,New York,"555 West 57th Street, Suite 1326",10019,40.770437,-73.990426
+TeachScape,software,$16M,USA,San Francisco,71 Stevenson St.,94105,37.7869047,-122.4043924
+Roc2Loc,cleantech,$2M,USA,San Francisco,"66 Mint Street, 3rd Floor",94103,37.782475,-122.407764
+FinAnalytica,software,$7M,USA,New York,"100 Park Avenue, 16th Floor",10017,40.751293,-73.978887

@@ -1,0 +1,6 @@
+name,category_code,number_of_employees,total_money_raised,country_code,city,address,zip_code,latitude,longitude
+Livestream,games_video,120.0,$14.7M,USA,New York,"111 8th Avenue, #1509",10011,40.726155,-73.995625
+hi5,games_video,100.0,$52M,USA,San Francisco,55 Second Street,94105,37.788668,-122.400558
+Zynga,games_video,115.0,$860M,USA,San Francisco,365 Vermont St.,94103,37.765158,-122.404234
+iWin,games_video,103.0,$0,USA,San Francisco,45 Fremont Street,94105,37.781689,-122.391061
+Exent,games_video,100.0,$3M,USA,New York,632 W. 28th St.,10001,40.7523796,-74.005568
