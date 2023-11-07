@@ -1,0 +1,657 @@
+name,category_code,number_of_employees,total_money_raised,country_code,city,address,zip_code,latitude,longitude
+Digg,news,60.0,$45M,USA,San Francisco,135 Mississippi St,94107,37.764726,-122.394523
+Adobe Systems,software,7173.0,$0,USA,San Jose,,,37.320052,-121.877636
+Negonation,web,3.0,$0,ESP,,,,40.463667,-3.74922
+GENWI,mobile,25.0,$7.1M,USA,Los Altos,4966 El Camino Real,94022,33.8171,-111.9035
+Aviary,mobile,16.0,$19M,USA,NY,243 West 30th Street,10001,,
+BrightQube,ecommerce,0.0,$850k,USA,Carlsbad,,92009,33.09568,-117.244034
+Ponoko,ecommerce,9.0,$0,USA,Oakland,3431 Louise Street,94608,37.8136086,-122.2966496
+Wix,web,400.0,$58.5M,ISR,Tel Aviv,,,,
+Gilt Groupe,fashion,,$236M,USA,New York,2 Park Ave Fl 4,10016-5602,40.74727,-73.9800645
+AF83,web,55.0,$0,FRA,PARIS,15 rue PoissonniÃ¨re,75002,48.862063,2.35022
+Sitemasher,enterprise,12.0,C$5M,CAN,Vancouver,Suite 200,V5Y1J5,,
+cScape,web,70.0,$0,GBR,London,4 Pear Tree Court,EC1R 0DS,51.523676,-0.107843
+EnergyWeb Solutions,ecommerce,4.0,$100k,USA,Allentown,PO Box 3655,18106,40.58471,-75.588974
+ProofHQ,software,,$0,GBR,London,66 High St,,51.5320478,-0.011154
+99designs,design,100.0,$35M,USA,San Francisco,447 Battery St.,94111,37.7955307,-122.4005983
+Digital-Telepathy,,,$0,USA,San Diego,2970 Fifth Avenue,92103,32.736369,-117.160619
+Feng-GUI,software,,$0,ISR,Tel Aviv,,,32.0554,34.7595
+Dotndot,software,5.0,$0,IND,Hyderabad,,500017,,
+Osidosi Solutions,software,,$0,CAN,,,,56.130366,-106.346771
+Less Everything,advertising,5.0,$0,USA,Jacksonville,11250 Old St. Augustine Rd. #15-164,32257,,
+Mojizu,network_hosting,,$0,USA,Irvine,10 Corporate Park,92606,33.690354,-117.829435
+Carsonified,,,$0,GBR,Bath,19c Charles Street,BA1 1HX,51.381732,-2.365654
+Sososher,web,,$0,GBR,London,,,51.500152,-0.126236
+Designing Interactive,advertising,7.0,$0,USA,Rocky River,20545 Center Ridge Rd. Ste 202,44116,,
+RiDE Group,consulting,1.0,$0,USA,Newark,,,39.677485,-75.753563
+Weardrobe,web,2.0,$0,USA,Palo Alto,241 Everett Ave,94301,37.446662,-122.164925
+Brilliant2,advertising,5.0,$0,USA,Los Angeles,12207 Wilshire Blvd.,90025,34.043228,-118.46856
+EasyLink,network_hosting,20.0,$5.4M,IND,Chennai,"C-Block, 1st floor, Bharathiar Complex",600028,,
+Shopflick,ecommerce,10.0,$8M,USA,Los Angeles,10500 W. Pico Blvd,90064,34.044939,-118.419067
+PixelCrayons,web,200.0,$0,USA,New York,228 Park Ave S # 25950,10003,28.682042,77.087502
+Trunkt,ecommerce,2.0,$0,,,,,,
+myTino,software,100.0,$0,CHN,Hangzhou,"14th Floor, East Software Park, 90 Wensan Road",310012,,
+Visible Theory,web,,$0,USA,Pasadena,1005 E. Colorado Blvd.,91106,34.145904,-118.129329
+Janmedia Interactive,web,40.0,$0,USA,Falls Church,7247 Lee Highway,22042,38.878596,-77.185057
+Cutcaster,web,8.0,$0,USA,San Francisco,39 Mesa St.,94129,37.79851,-122.457454
+Mad Mimi,web,35.0,$110k,USA,Brooklyn,172 Fifth Avenue,11215,40.66509,-73.980306
+New York Designs,network_hosting,12.0,$0,USA,New York,4530 41 Street,11104,40.743264,-73.923427
+Apperceptive,web,,$0,,,,,,
+Tornado Design,web,4.0,$0,USA,Phoenix,100 West Camelback Rd.,85013,33.479692,-111.980855
+Springleap,advertising,3.0,$0,ZAF,Cape Town,"42 Kloof St, 4th Flr Earlgo, Cnr Kloof St and Park St,",8005,,
+Inovatis,web,2.0,$0,FRA,Lipsheim,5 rue Massenet,67640,48.491885,7.664067
+Tumblize,web,,$0,USA,,,,37.09024,-95.712891
+Phi Media,web,3.0,$0,CAN,Toronto,"1266 Queen Street West, studio 2",M6K 1L3,,
+SEO Workers,consulting,2.0,$0,DEU,Augsburg,Willi-Stoer Str. 4,86159,48.333702,10.90602
+JumpFrog,consulting,12.0,$0,USA,Hazleton,103 Rotary Drive,18202,40.977855,-76.029511
+deviantART,web,120.0,$13.5M,USA,Hollywood,7095 Hollywood Blvd #788,90028,34.101578,-118.33334
+Crunchlabz,web,,$0,NLD,Rotterdam,Postbus 352,3000AJ,,
+MakeMyLink,advertising,,$0,IND,new delhi,"j101, kaveri aprt, plot 4, sector 6",110075,,
+Global Business Development Services,public_relations,6.0,$0,USA,Ashland,800 Liberty St.,97520,42.1827347,-122.7032759
+ExpertsYard,ecommerce,8.0,$0,USA,Dallas,"Taxas, Dallas",75201,32.789215,-96.788551
+Acquity Group,ecommerce,500.0,$0,USA,Chicago,500 West Madison Street,60606,41.881876,-87.639713
+InterGraphicDESIGNS,network_hosting,25.0,$0,CRI,"TibÃ¡s, San JosÃ©",400mts sur de la Iglesia CatÃ³lica de TibÃ¡s,81-1100 TibÃ¡s,,
+Monkey in your Soul,software,1.0,$0,CAN,Toronto,,,43.670233,-79.386755
+AdapDev IT Web Design,web,1.0,$0,USA,Puyallup,11012 Canyon Rd E.,98373,47.156038,-122.357183
+Artifex Animation Studios,web,15.0,$0,CAN,Montreal,6915 St-Hubert,H2S2M7,45.539065,-73.609532
+Fabric Interactive,consulting,10.0,$0,USA,Los Angeles,201 N Westmoreland Ave Suite 106,90004,34.0748,-118.288536
+RMW Web Publishing,web,2.0,$0,AUS,Bathurst,,2795,-33.41978,149.574258
+FliteHaus Creative Agency,advertising,4.0,$0,USA,Oviedo,3000 Dovera Drive,32765,28.544123,-81.366414
+Majides,web,,$0,JPN,,,,36.204824,138.252924
+ArcStone Technologies,public_relations,20.0,$0,USA,Minneapolis,104 West Franklin,55404,44.962697,-93.279911
+Mobile Rider,software,9.0,$0,USA,Salt Lake City,1435 So. State Street,84115,40.739109,-111.887733
+Bonsource Technology,other,25.0,$0,IND,Chennai,"Office No. 5, 5th Floor, Gokul Arcade,",600020,,
+Wilogo,web,0.0,$0,FRA,Saint Chamond,"7, quai de la Rive",42400,45.509034,4.580496
+22Plus Network,advertising,,$0,ROM,Iasi,"24th Pacurari Street,",700511,,
+Synthetic Entertainment,web,,$0,USA,Manhattan,P.O.Box 1072,66505,39.1967,-96.5956
+939 Design,web,2.0,$0,GBR,East Yorkshire,10 The Circle,HU13 0QJ,53.725204,-0.439392
+BootB,advertising,10.0,$0,,,,,,
+Zulu Creative,advertising,10.0,$0,GBR,West Midlands,309 Lichfield Road,B74 4BZ,52.588545,-1.830892
+Making Sense,software,100.0,$0,USA,San Antonio,401 East Houston St,78205,29.516352,-98.43676
+MakeFive,other,2.0,$0,CAN,"Vancouver, BC",1205 - 207 W. Hastings Street,V6B 1H7,49.2839417,-123.1101383
+New Media Strategies,advertising,120.0,$0,USA,Arlington,1100 Wilson Boulevard,22209,,
+Louis Vuitton,other,9671.0,$0,FRA,Paris,101 Avenue des Champs ElysÃ©es,75008,48.871976,2.30069
+Fashionspace,ecommerce,,$0,GBR,Guernsey,F5 Hirzel Court,GY1 4HU,,
+Addesso,web,5.0,$0,USA,Drexel Hill,374 Upland Way,19026,39.947465,-75.288083
+Aurus IT Solutions,software,18.0,$0,IND,Mumbai,"Vrindavan, Meera Bagh,",400056,,
+Ensign Technologies,consulting,2.0,$0,USA,Springfield,912 West Walnut Street,65806,37.207262,-93.302443
+modula,search,,$0,,,,,,
+Bilende Technologies,software,,$100k,TUR,Istanbul,Kurabiye Sokak 8/4,34435,,
+Rui Peixeiro,web,1.0,$0,PRT,CovilhÃ£,,6200,40.29416,-7.469215
+Talent Gurus,consulting,500.0,$0,USA,Houston,"2313 Timber Shadows Drive, Ste. 200",77339,30.050837,-95.230789
+Tangivel,other,,$0,PRT,Coimbra,Quinta da Nora,3030-199 Coimbra,40.19266,-8.418228
+Union Street Media,ecommerce,20.0,$0,USA,Burlington,444 South Union Street,05401,44.468055,-73.207641
+Klee Group,enterprise,300.0,$0,FRA,Le Plessis Robinson,Centre d'Affaires La BoursidiÃ¨re,92357,,
+QRIU,public_relations,5.0,$0,PRT,,,,,
+Catalyst Resources,enterprise,,$0,USA,San Mateo,1700 South El Camino Real,94402,37.552137,-122.314156
+ShopMyCloset,ecommerce,4.0,$0,USA,,,,,
+Mashware,advertising,1.0,$0,,,,,,
+DesignBay,ecommerce,5.0,$0,,,,,,
+vunite media,public_relations,3.0,$0,USA,Salt Lake City,115 South 1100 East #505,84102,40.766429,-111.858952
+MEDDIA,public_relations,8.0,$0,ESP,Barcelona,Av. Diagonal 237,08013,41.4018094,2.1815648
+Meetweb,advertising,10.0,$0,ITA,Napoli,Via del Parco Margherita 32,80121,40.838338,14.235889
+ecreative,other,,$0,TUR,istanbul,haci izzet sok. 13/1 moda,80300,,
+Anubavam,enterprise,40.0,$0,USA,San Antonio,7801 Broadway Ste 205,78209,29.743772,-98.692465
+Dot Com Infoway France,advertising,200.0,$0,IND,Chennai,"""GNG House""",600 102,13.11352,80.152135
+IDEO,consulting,500.0,$0,USA,Palo Alto,100 Forest Avenue,94301,37.441971,-122.161151
+Ammunition Group,public_relations,,$0,USA,San Francisco,Randomhouse One,94111,,
+Spoiltchild,advertising,4.0,$0,IRL,Drogheda,Units 1 & 2 Broughton House,,40.19036,-74.840241
+KIPL,mobile,35.0,$0,IND,Mumbai (Bombay),506 - Arcadia,400021,,
+Fixie,software,2.0,$0,USA,Seattle,1008 Western Ave,98104,47.6042792,-122.3374372
+Bizcard,other,24.0,$0,USA,Scottsdale,PO Box 15190,85267,33.5093,-111.8985
+Gorenje,other,11000.0,$0,AUT,Wien,"SÃ¼dbahnhofgelÃ¤nde, StraÃŸe C",A-1101,,
+Adorn Technologies,web,7.0,$0,IND,Coimbatore,Koundampalayam,641030,,
+ecimtech,consulting,20.0,$0,,,,,,
+IPsupermarket,enterprise,65.0,$0,IND,Bangalore,"Unit No. G002, Gamma Block",560066,,
+Continuum,consulting,145.0,$0,USA,West Newton,1220 Washington Street,02465,42.349239,-71.223834
+Aldor Solutions,enterprise,20.0,$0,USA,Plano,860 F Avenue,75074,33.010381,-96.705127
+Biden PC,consulting,1.0,$0,USA,Pomona,450 West FoothilL Blvd.,91767,34.109193,-117.755169
+Wharton Website Design and Marketing,advertising,,$0,USA,Mountain Home,1417 Cresswell Drive,72653,36.338746,-92.363837
+Reverb Studios,web,1.0,$0,IRL,Carrick-on-Shannon,Lisnagea,Leitrim,,
+Leafish,network_hosting,2.0,$0,GBR,Wrexham,PO Box 2072,LL11 4ZG,,
+Ocean Online Group,web,25.0,$0,USA,Chicago,200 North Michigan Ave,60601,41.886088,-87.624983
+Coomer Media Group,consulting,6.0,$0,USA,Richmond,106 East Main St.,40475,37.747342,-84.294064
+White Light Concepts,advertising,,$0,,,,,,
+DigitiseUrDreams,consulting,,$0,,,,,,
+WebMedic,web,5.0,$0,NLD,Delft,Kanaalweg 1,2628 EB,52.004819,4.35927
+Minted,ecommerce,115.0,$52.7M,USA,San Francisco,747 Front Street,94111,37.797435,-122.403175
+Media Lantern,advertising,9.0,$250k,USA,New London,236 State St,06320,41.354796,-72.097348
+I-COM,advertising,21.0,$0,GBR,Manchester,Lloyd's House,M2 5WA,53.385028,-2.354238
+Qovax,software,2.0,$0,USA,Agoura Hills,,,34.146149,-118.761265
+StyleCard,web,10.0,$0,USA,New York,61 Jane Street,10014,40.738137,-74.0058
+Handcrafted,consulting,5.0,$0,USA,Houston,,77070,29.983076,-95.5627227
+Relativity,consulting,4.0,$0,USA,N. Attleboro,65 Rodney Lecours Dr,02760,41.957177,-71.3607
+XFRIDAY,ecommerce,50.0,$0,IND,Faridabad,,,28.382219,77.303093
+Mightybytes,games_video,8.0,$0,USA,Chicago,5235 N. Clark St.,60640,41.977257,-87.668365
+EffectiveUI,software,97.0,$0,USA,Denver,2162 Market St.,80205,39.755152,-104.990968
+LucrativDesigns,search,4.0,$0,,,,,,
+Goldstein Media,advertising,2.0,$0,USA,Bensalem,P.O. Box 1881,19020,40.10115,-74.941677
+WebMindz24,other,,$0,,,,,,
+Amnesia Group,search,70.0,$0,AUS,East Sydney,"20 Hargraue Street,",2010,-33.876658,151.213362
+Virtually Canadian,advertising,8.0,$0,CAN,Vancouver,#401-788 Beatty Street,V6B 2M1,49.277711,-123.113775
+Kinoma,mobile,,$0,USA,Palo Alto,855 El Camino Real,94301,37.43938,-122.158804
+Magic Logix,advertising,15.0,$0,USA,Carrollton,3234 Commander Dr,75006,32.976452,-96.843958
+The Tin,web,10.0,$0,GBR,London,24-28a Hatton Wall,EC1N 8JH,51.52129,-0.10978
+designgeist,web,1.0,$0,,,,,,
+CompuBase Internet Solutions,software,4.0,$0,NLD,Mill,Eerste Industrieweg 15a,5451 GV,51.67937,5.782043
+Albion,advertising,54.0,$0,GBR,London,Tea Building,E16JJ,,
+Squiz UK,web,30.0,$0,GBR,London,109-123 Clifton Street,EC2A 4LD,51.521603,-0.083444
+NuZoo Media,games_video,,$0,,,,,,
+e-Man,web,18.0,$0,GBR,"London,",57-61 Mortimer Street,W1W 8HS,51.517712,-0.141022
+Dreams Media,consulting,3.0,$0,IND,Mumbai,"B/501, Mansi Apt., Near Vijay Park, Mira Road East",401107,,
+Design by Humans,web,15.0,$0,USA,Chico,1262 Humboldt Ave,95928,39.7324184,-121.8211856
+Digital Stampede,web,5.0,$0,USA,Chicago,,60625,41.972002,-87.703656
+D2 Creative,advertising,80.0,$0,USA,Somerset,28 Worlds Fair Drive,08873,40.531055,-74.519047
+Face Your Manga,web,,$0,,,,,,
+AYCE Internet,advertising,8.0,$0,CAN,Toronto,Suite #4,m5p3l1,,
+Snaptortoise,web,,$0,USA,Portland,3001-C SE Belmont,97214,45.516621,-122.63457
+Sixty Five Design,advertising,,$0,USA,Beverly Hills,269 South Beverly Drive Suite 920,90212,,
+HelpMeTy,hardware,16.0,$0,USA,New Brighton,201 5th Ave SW,55112,45.045772,-93.190885
+Ecolect,cleantech,3.0,$0,USA,San Francisco,19 Rausch Street,9403,37.776769,-122.410111
+Insyde,advertising,7.0,$0,NLD,Delft,Singelstraat 1a,2613 EM,52.0112727,4.3532861
+tish-o,public_relations,20.0,$0,TUR,Istanbul,"Dolum Tesisleri Yolu, Sehit Zafer Sokak",34310,,
+FashionFreax GmbH,web,,$0,DEU,WÃ¤chtersbach,Bleichgartenstr. 11,63607,52.537588,13.37402
+Pond5,ecommerce,25.0,$500k,USA,Brooklyn,155 Water Street,11201,40.7032884,-73.9878525
+CoffeeCup Software,software,17.0,$0,USA,Atlanta,165 Courtland St,30303,,
+Hyva IT Solutions,software,70.0,$0,IND,Bangalore,"697 / 75, 30th Cross, Swagath Main Road,",560041,,
+Interworld Commnet,advertising,,$0,,,,,,
+Synergie Media,advertising,3.0,$0,MAR,Agadir,"325, Hassan II Avenue",80000,,
+dimension5 labs,advertising,11.0,$0,USA,Santa Fe,1025 Don Diego Ave,87505,35.6746751,-105.9484344
+Mobclix,mobile,26.0,$0,USA,Palo Alto,102 University Ave,94301,37.448598,-122.158497
+Popego,advertising,120.0,$0,ARG,Buenos Aires,Cabrera 5722 #1,1414BHH,,
+IncSpring,public_relations,9.0,$0,USA,San Antonio,70 NE Loop 410,78216,29.520005,-98.488402
+SG2,advertising,35.0,$0,ARG,Capital Federal,Pellegrini 1043 1er y 3er piso,1009,,
+Blank Canvas Studios,web,2.0,$0,,,,,,
+GreenLogic India Tecnologies,advertising,10.0,$0,IND,Bangalore,"#202/3, 29th Main,",560068,12.9093426,77.5833979
+Wonsys,consulting,3.0,$0,ITA,Milan,"Via Castel Morrone, 1",20129,45.468399,9.214761
+Milobox,advertising,,$0,USA,San Francisco,,94109,37.792979,-122.421242
+Davai Design,web,5.0,$0,CAN,Montreal,,H3S 1X1,45.496141,-73.63222
+Intelligenes,software,13.0,$0,PAK,Karachi,"Suite 1002, Tenth Floor, Dilkusha Forum",75400,24.9068278,67.0806218
+SnapPages,web,4.0,$0,USA,Austin,13091 Pond Springs Rd.,78729,30.443493,-97.77512
+Raizlabs,software,14.0,$0,USA,Boston,10 Milk St,02108,,
+Cinergix,public_relations,,$0,AUS,Melbourne,61/39 Rathdowne Street,3053,-37.793125,144.971266
+GolterGraphix,public_relations,27.0,$0,USA,Rochester,,03867,43.3104064,-70.9903438
+Fresh Web Services,ecommerce,2.0,$0,GBR,Leicester,LCB Depot,LE1 1RE,,
+Nealite,consulting,35.0,$0,FRA,Paris,10 rue du Faubourg PoissonniÃ¨re,75010,,
+Spiral Shell Web LLC,public_relations,2.0,$0,USA,East Hampton,39 Clark Hill Rd,06424,41.595196,-72.51949
+DESIGN about TOWN,web,3.0,$0,USA,SF,18 Bartol Street,94133,37.797909,-122.403312
+HelpMeTy,hardware,16.0,$0,USA,New Brighton,201 5th Ave SW,55112,45.045772,-93.190885
+Ecolect,cleantech,3.0,$0,USA,San Francisco,19 Rausch Street,9403,37.776769,-122.410111
+Insyde,advertising,7.0,$0,NLD,Delft,Singelstraat 1a,2613 EM,52.0112727,4.3532861
+tish-o,public_relations,20.0,$0,TUR,Istanbul,"Dolum Tesisleri Yolu, Sehit Zafer Sokak",34310,,
+FashionFreax GmbH,web,,$0,DEU,WÃ¤chtersbach,Bleichgartenstr. 11,63607,52.537588,13.37402
+Pond5,ecommerce,25.0,$500k,USA,Brooklyn,155 Water Street,11201,40.7032884,-73.9878525
+CoffeeCup Software,software,17.0,$0,USA,Atlanta,165 Courtland St,30303,,
+Hyva IT Solutions,software,70.0,$0,IND,Bangalore,"697 / 75, 30th Cross, Swagath Main Road,",560041,,
+Interworld Commnet,advertising,,$0,,,,,,
+Synergie Media,advertising,3.0,$0,MAR,Agadir,"325, Hassan II Avenue",80000,,
+dimension5 labs,advertising,11.0,$0,USA,Santa Fe,1025 Don Diego Ave,87505,35.6746751,-105.9484344
+Mobclix,mobile,26.0,$0,USA,Palo Alto,102 University Ave,94301,37.448598,-122.158497
+Popego,advertising,120.0,$0,ARG,Buenos Aires,Cabrera 5722 #1,1414BHH,,
+IncSpring,public_relations,9.0,$0,USA,San Antonio,70 NE Loop 410,78216,29.520005,-98.488402
+SG2,advertising,35.0,$0,ARG,Capital Federal,Pellegrini 1043 1er y 3er piso,1009,,
+Blank Canvas Studios,web,2.0,$0,,,,,,
+GreenLogic India Tecnologies,advertising,10.0,$0,IND,Bangalore,"#202/3, 29th Main,",560068,12.9093426,77.5833979
+Wonsys,consulting,3.0,$0,ITA,Milan,"Via Castel Morrone, 1",20129,45.468399,9.214761
+Milobox,advertising,,$0,USA,San Francisco,,94109,37.792979,-122.421242
+Davai Design,web,5.0,$0,CAN,Montreal,,H3S 1X1,45.496141,-73.63222
+Intelligenes,software,13.0,$0,PAK,Karachi,"Suite 1002, Tenth Floor, Dilkusha Forum",75400,24.9068278,67.0806218
+SnapPages,web,4.0,$0,USA,Austin,13091 Pond Springs Rd.,78729,30.443493,-97.77512
+Raizlabs,software,14.0,$0,USA,Boston,10 Milk St,02108,,
+Cinergix,public_relations,,$0,AUS,Melbourne,61/39 Rathdowne Street,3053,-37.793125,144.971266
+GolterGraphix,public_relations,27.0,$0,USA,Rochester,,03867,43.3104064,-70.9903438
+Fresh Web Services,ecommerce,2.0,$0,GBR,Leicester,LCB Depot,LE1 1RE,,
+Nealite,consulting,35.0,$0,FRA,Paris,10 rue du Faubourg PoissonniÃ¨re,75010,,
+Spiral Shell Web LLC,public_relations,2.0,$0,USA,East Hampton,39 Clark Hill Rd,06424,41.595196,-72.51949
+DESIGN about TOWN,web,3.0,$0,USA,SF,18 Bartol Street,94133,37.797909,-122.403312
+Zen Web Solutions,advertising,16.0,$0,GBR,Rochdale,Sandbrook Park,OL11 1RY,,
+Lounge|Press,public_relations,4.0,$0,USA,Boynton Beach,4061 Artesa Dr,33436,26.539706,-80.108189
+Drage Web Solutions,web,2.0,$0,,,,,,
+Webguru-India,advertising,250.0,$0,IND,Kolkata,"Y8, Block - EP, Sector V",700091,,
+CPC Computer Consultants,ecommerce,5.0,$0,USA,Miami,"1221 Brickell Avenue, Suite 900",33131,25.761296,-80.191258
+Alwayswater,web,2.0,$0,USA,Hoboken,720 Monroe Street,07030,40.747005,-74.039011
+My Modern Metropolis,web,,$0,USA,,,,,
+McIntyre Media,advertising,3.0,$0,USA,Cleveland,552 W Glendale St,44146,41.390918,-81.554755
+Glued Network,consulting,2.0,$0,USA,St. Louis,,,38.627522,-90.19841
+Devnet,consulting,12.0,$0,AUS,BRISBANE,1/94 James Street,4005,-27.458989,153.043228
+Develop Daly,consulting,1.0,$0,,,,,,
+hornet,advertising,,$0,AUS,Balmain,Unit 48/22 Buchanan Street,NSW 2041,-33.86322,151.179693
+Webtrade,web,15.0,$0,IRL,Dublin,Unit F5B Nutgrove Office Park,Dublin 14,,
+nodes,consulting,12.0,$0,USA,Norman,Main St.,73069,35.218428,-97.464788
+NOTCOT,web,2.0,$0,USA,Los Angeles,,,34.052187,-118.243425
+psd2css Online,enterprise,3.0,$0,USA,Encinitas,,92024,33.052083,-117.279368
+eDLink Services Pte Ltd,advertising,10.0,$0,SGP,Singapore,"52 Telok Blangah Rd, Telok Blangah House #01-02",098829,,
+Designious,web,8.0,$0,,,,,,
+Vinfotech,software,85.0,$0,IND,Indore,"31/2, New Palasia",452017,22.72939,75.883168
+The Factory Interactive,advertising,10.0,$0,USA,Miami,"3301 NE 1 Avenue,",33137,25.825503,-80.187805
+Netwise Depot,network_hosting,10.0,$0,,,,,,
+Medianomic,advertising,2.0,$0,USA,Atlanta,434 Marietta Street,30313,33.764877,-84.397325
+Content Kings,advertising,12.0,$0,USA,Santa Monica,1409 Third Street Promenade,90401,34.015386,-118.495792
+Syria Nobles,web,20.0,$0,USA,Fontana,16700 Marygold Ave,92335,34.0739586,-117.4400156
+3K Interactive,advertising,15.0,$0,USA,San Diego,8555 Rio San Diego Drive,92108,32.774948,-117.143917
+Aster Technologies,consulting,2.0,$0,USA,Thousand Oaks,3075 E Thousand Oaks Blvd,91362,34.1692256,-118.836014
+Tagpoint,web,,$0,,,,,,
+Denook,games_video,2.0,$0,USA,Miami,14707 SW 37 Terrace,33185,25.733027,-80.432061
+HyperTEK Corporation,ecommerce,,$0,USA,Troy,575 E Big Beaver Rd,48083-1398,42.56349,-83.136514
+SpecSuperstore,ecommerce,10.0,$0,GBR,Rhuddlan,Wyvern House,LL18 2TR,,
+FUSE,web,7.0,$0,GBR,London,B01 Archer Street Studios,W1D 7AZ,,
+Box UK,software,75.0,$0,GBR,London,One Heddon Street,W1B 4BD,51.5107737,-0.1392447
+Art2Digital InterMedia,advertising,8.0,$0,DEU,KÃ¶nigshofen,Bahnhofstrasse.22,D-97922,49.5677645,9.7068455
+CSS Rainbow,ecommerce,,$0,,,,,,
+ThoseGeeks,network_hosting,2.0,$0,USA,Abingdon,PO Box 592,24212,36.7084,-81.9688
+Access Point,advertising,5.0,$4.5M,ROM,Iasi,Socola 134a,700187,,
+ANEX,consulting,,$0,,,,,,
+SpinningYourWeb International,web,3.0,$0,ZAF,Cape Town,17 Mauritius Crescent,7975,,
+Capstone Labs,public_relations,,$0,USA,St. Augustine,1835 Us Hwy 1 South,32084,29.867865,-81.32415
+Fabian Rossano Studio,other,4.0,$0,USA,New York,348 West 14th Street,10014,40.740371,-74.004777
+Xtreme Widgets,web,15.0,$0,USA,Los Angeles,4221 Redwood Ave.,90066,33.988687,-118.439532
+TVGla,web,55.0,$0,USA,Los Angeles,5340 Alla Road Suite 100,90066,33.988687,-118.439532
+Agriya,software,200.0,$0,IND,Chennai,"New no 61, Plot no 39, second street",600034,,
+Samadhan Systems,software,20.0,$0,IND,"Ghaziabad, U.P","CS 02, SF, Ansal Plaza",110054,,
+Vesess,web,12.0,$0,LKA,Colombo,"39 1/1, Horton Place",00700,,
+Olivos by Design,advertising,4.0,$0,ESP,Malaga,Mijas Costa,289650,36.492548,-4.72689
+McRaaN Systems,software,60.0,$0,IND,Hyderabad,"8-2-120/86/9/A, Plot No - 22",500034,,
+ZLOK,consulting,4.0,$0,,,,,,
+Pumant,software,20.0,$1.2M,GBR,Birmingham,"Birmingham, UK",,52.482932,-1.893621
+InoPrints,public_relations,10.0,$0,USA,Chicago,700 N. Green,60642,41.975543,-87.715498
+Liquid Studios,web,,$0,MLT,Santa Venera,219-221,SVR1936,,
+BAM Studios,games_video,6.0,$0,USA,Chicago,One East Erie Street,60611,41.893622,-87.627423
+ApogeeInvent,software,30.0,$0,USA,American Falls,105 W Park St,83211,43.825874,-111.780958
+Virtuoso Analytic Services,web,47.0,$0,IND,Kolkata,"Virtuoso Analytic Services Pvt. Ltd., P81 Dakshini Housing Society",700105,,
+Geonet Enterprses,hardware,10.0,$0,KEN,Nairobi,,4214-00100,0.097627,35.500756
+WebMetro,advertising,40.0,$0,USA,San Dimas,160 East Via Verde Ave.,91773,34.069903,-117.848089
+Amart Design,advertising,2.0,$0,BGR,"Plovdiv,",Tzanko Diustabanov str. 7A,,,
+Neoganda,advertising,15.0,$0,USA,West Hollywood,8455 Beverly Blvd. Suite 309,90048,34.076404,-118.375053
+XDnet,network_hosting,,$0,,,,,,
+Twin Pines,web,10.0,$0,SWE,BorlÃ¤nge,,,60.485605,15.436302
+Squarespace,web,190.0,$38.5M,USA,New York,459 Broadway,10013,,
+India Designers,advertising,50.0,$0,IND,Noida (UP),"C-114, Sector-2",,28.5846875,77.3159296
+WePC,other,,$0,USA,San Francisco,C/O Federated Media,94110,,
+Virtual trip,consulting,20.0,$0,ARG,Ciudad de Buenos Aires,Cabello 3791 2J,1425,,
+WebpageFX,advertising,25.0,$0,USA,Carlisle,453 Lincoln Street,17013,40.207431,-77.199558
+X-PRIME,advertising,55.0,$0,FRA,Toulouse,99 route d'Espagne,31100,43.561452,1.425107
+NFi Studios,advertising,,$350k,USA,Orlando,37 N. Orange Ave,32801,28.542896,-81.378805
+FHOKE,web,4.0,$0,GBR,Stockbridge,Crest House,SO208EG,,
+Maverick Revolution,network_hosting,4.0,$0,,,,,,
+Glow New Media,advertising,,$0,GBR,Liverpool,,,53.4107766,-2.9778383
+Intecom Email Marketing,advertising,6.0,$0,NZL,Levin,Level 1,,,
+The Jonah Group,consulting,80.0,$0,CAN,Toronto,461 King Street West 3rd Floor,M5V1K4,,
+Aghreni Technologies,software,15.0,$0,IND,Bangalore,335 Double Road,560038,12.9561278,77.5922642
+Invictus Technology,consulting,5.0,$0,GBR,Birmingham,21 Marsh End,B38 9BB,52.3984972,-1.9264665
+I-Cubed Web Design,web,4.0,$0,USA,Boiling Springs,600 Whiskey Springs Rd.,17007,40.10971,-77.132182
+A Beautiful Site,enterprise,3.0,$0,ZAF,Sidlamafa,P.o box 97,1332,,
+Beehive Media,software,8.0,$0,USA,Hopkinton,PO Box 348,01748,42.6274692,-71.3629705
+32bytes,advertising,8.0,$0,IND,Kolkata,8 Ho Chi Minh Sarani,700071,22.5463155,88.3539981
+Experiential Design Lab,other,10.0,$0,IND,New Delhi,"N-84 Second Floor, Abul Fazal, Jamia Nagar",110025,,
+Devkinetic Designs,web,1.0,$10k,USA,Melrose,452 Main Street #4,02176,42.45434,-71.066148
+Nullvariable Web Consulting,consulting,7.0,$0,USA,Greenville,9 Primrose Lane,29607,34.8678238,-82.3722295
+SpectrumDNA,web,,$0,USA,Park City,"1700 Park Avenue, Suite 2020",84060,40.657786,-111.506667
+Active Online,enterprise,6.0,$0,IRL,Dublin,North King Street,D7,53.3498195,-6.2769121
+Spork Marketing,consulting,1.0,$0,USA,Littleton,8156E S Wadsworth Blvd,80128,39.568519,-105.0825619
+Computing Data,software,3.0,$0,GBR,Grimsargh Preston,"329 Preston Road,",PR2 5JT,53.8070285,-2.6172859
+Speedchecker,web,2.0,$0,GBR,Bristol,213 Redland Road,BS6 6YT,51.4749263,-2.6136797
+4am Design and Technology Labs,advertising,5.0,$0,IND,Bangalore,"#1300, 13th Cross",560038,13.0774091,77.5886142
+itive,consulting,,$0,FIN,Kauhajoki,Teknologiapuisto 1,61800,62.4179735,22.173893
+Niyati Technologies,consulting,25.0,$0,IND,Chennai,"3rd Floor, Prince Plaza",600008,,
+Extendi,network_hosting,3.0,$0,ITA,Firenze,"Via A.Diaz,60",50055,43.7688179,11.1052118
+utopia 365,mobile,2.0,$0,GBR,Romsey,8 Tavistock Close,SO51 7TQ,50.9991134,-1.4750789
+Which Web Design Company,enterprise,,$0,GBR,London,,,51.5001524,-0.1262362
+Random Computers,network_hosting,18.0,$0,USA,Spokane,1 South Washington,99202,47.6572277,-117.4180439
+Novem -- China website development,web,100.0,$0,CHN,Shanghai,20 Jinchuang Road,200433,,
+Agent Image,software,,$0,USA,El Segundo,1700 E. Walnut Avenue,90245,,
+Weatherwood,network_hosting,3.0,$0,USA,Minneapolis,2503 West Franklin Avenue,55405,44.962551,-93.313368
+Internet Life,public_relations,5.0,$0,ISR,Tel Aviv,181 Ben Yehuda st.,63472,,
+Editor,web,11.0,$0,SVN,Solkan,Velika pot 29,5250,45.9689988,13.6409647
+Sprout - Growing Ideas,other,,$0,USA,Nashville,1503 16th Ave S,37212,36.139428,-86.794246
+Eat Media,advertising,5.0,$0,USA,Hastings-on-Hudson,157 Southside Ave,10706,27.4964623,-82.5734043
+Artlog,software,6.0,$0,,,,,,
+Joy Group,web,2.0,$0,NLD,Almere,Katernstraat 11,1312 NC,,
+Ramp Technology Group,consulting,75.0,$0,USA,Bellevue,"305 108th Avenue NE, Suite 200",98004-5706,47.61251,-122.1962236
+Web:Studio,network_hosting,3.0,$0,IRL,Ardee,Ultimate Technology House,Co Louth,,
+Azuro,semiconductor,,$10M,USA,Santa Clara,5201 Great America Parkway,95054,37.406217,-121.976473
+Digital Dreamspace,advertising,,$0,,,,,,
+Brightegg,public_relations,,$0,USA,Tolland,One Technology Drive,06084,41.856671,-72.3448043
+"Expert Online Services, LLC",advertising,3.0,$0,USA,Palm Beach Gardens,,,26.852044,-80.145206
+Digital Base,software,3.0,$0,BEL,Leuven,Broekstraat 36,3001,50.867206,4.700737
+Elevate Visual Communications,advertising,4.0,$0,USA,Juniata,1395 N. Adams Central Ave,68955,40.599303,-98.4588465
+Produxs,consulting,10.0,$0,USA,Seattle,3220 1st Ave S,98134,47.5753035,-122.3342499
+Web Sight Technologies,network_hosting,22.0,$0,IND,Kottayam,"Web Sight technologies, 483, Vadakkenada Road",686004,,
+ISTANBULDIJITAL,web,5.0,$0,,,,,,
+Novalsys,software,10.0,$0,USA,New York,411 Lafayette Street,10003,40.7283696,-73.9923918
+What Cheer,other,3.0,$0,USA,Omaha,1111 N 13th Street,68102,41.265831,-95.9336828
+Summitsoft Corporation,software,20.0,$0,USA,Omaha,9615 Ida Street,68122,41.3207132,-96.0635225
+The Graham Agency,advertising,2.0,$0,USA,Santa Cruz,105 Lincoln Street Ste C,95060,36.9751032,-122.0253784
+HolyCow Design,other,1.0,$0,,,,,,
+Good Work Marketing And Design,advertising,6.0,$0,USA,New Orleans,8117 Oak Street,70118,29.9208049,-90.0864572
+panels,web,,$0,USA,Portland,US Bancorp Tower,,,
+Solavista,web,8.0,$250k,USA,Scottsdale,14362 N. Frank Lloyd Wright Blvd.,85260,33.6171763,-111.8714978
+dp dialogue,advertising,,$0,AUS,Brisbane,100 Wickham Street,4006,-27.455465,153.035629
+Slides2407!,public_relations,75.0,$0,USA,Valley Cottage,"#3790, Suite 2,",10989,41.130024,-73.928795
+Propeller Media Works,advertising,25.0,$0,USA,Burlington,208 Flynn Ave,05401,44.455806,-73.217971
+Radar Maker,advertising,3.0,$0,IRL,Dublin,Harold's Cross,,53.3256436,-6.2737316
+Kro IT Solutions,software,5.0,$0,IRL,East Wall Road,Unit 19 1.1,Dublin 3,,
+Sencia,software,14.0,$0,CAN,Thunder Bay,91 Cumberland Street South,P7B 6A7,48.4317715,-89.2225515
+Web Devisers  website design,network_hosting,5.0,$0,,,,,,
+FundaSite,web,5.0,$0,,,,,,
+Valuebound,ecommerce,10.0,$0,USA,Plainfield,11658 Liberty Lane,60544,41.612901,-88.231265
+FK3,advertising,15.0,$0,GBR,London,Southbank House,SE1 7SJ,,
+Test of Time Design,other,3.0,$0,USA,Des Moines,2657 Wisconsin Ave.,50317,41.615468,-93.564954
+ITCN Web Development,advertising,4.0,$0,USA,Morristown,Phoenix Ave,07960,40.798178,-74.486759
+Ample,public_relations,9.0,$0,USA,Cincinnati,200 W 4th Street,45202,,
+e-CBD,local,,$0,AUS,Southport,31 Charlton St,4215,-27.980414,153.411179
+HTSuite,advertising,10.0,$0,IND,"Coimbatore , Tamilnadu","1068, MTP Road, R.S Puram",641002,,
+A2zdesignwork,software,25.0,$0,IND,Bangalore,8th Blok,560095,,
+Paden Noble Consulting,software,15.0,$0,USA,Newark,211 Warren Street,07103,40.742416,-74.182118
+Soul Oyster Web Studios,advertising,1.0,$0,USA,Portsmouth,114 1/2 Maplewood Ave.,03801,43.0756094,-70.7606358
+Miva Merchant,software,80.0,$0,USA,San Diego,5060 Shoreham Place,92122,32.851846,-117.18602
+MetaSpring,ecommerce,5.0,$0,USA,Ann Arbor,8178 Jackson Rd,48103,42.2932626,-83.8897472
+Cirv,enterprise,,$0,USA,Vancouver,1100 W 12th St,98660,45.630718,-122.682791
+Generous Marketing,advertising,5.0,$0,USA,New Braunfels,2405 South IH 35,78130,29.7256556,-98.0815325
+webwork,web,5.0,$0,,,,,,
+thoughtbot,consulting,62.0,$0,USA,Boston,41 Winter Street,02108,42.356161,-71.061649
+creADivity,other,3.0,$0,,,,,,
+MATTSHAWNHARRIS,web,2.0,$0,,,,,,
+Radix Web,software,200.0,$0,USA,Artesia,"Radix Web LLC,",90701,,
+Gensofts Web Design India,advertising,10.0,$0,,,,,,
+MPC Studios,web,14.0,$0,USA,Harlingen,312 E. Harrison,78550,26.1906343,-97.6932804
+Web Hosting Search,public_relations,,$0,,,,,,
+Redwind Software,software,,$0,,,,,,
+Koves Technologies,advertising,146.0,$0,USA,Richmond,Ironfronts Building,23219,,
+Digital Face,network_hosting,8.0,$0,GBR,Edinburgh,Studio 128,E6 4DD,52.677577,0.1600278
+NextG Networks,mobile,,$410M,USA,Milpitas,890 Tasman Drive,95035,37.3968078,-121.9113633
+Groove Commerce,advertising,15.0,$0,USA,Baltimore,2400 Boston Street,21224,39.271785,-76.611379
+Make It Rain,advertising,5.0,$0,GBR,London,22-24 Bromells Road,SW4 0BG,51.4626,-0.139082
+Helldesign,consulting,3.0,$0,,,,,,
+KISS Computing,advertising,,$0,USA,Eastham,Main Street Mercantile #10,02642,,
+Open-Mind,other,4.0,$0,,,,,,
+noWice Web Solutions,web,10.0,$0,,,,,,
+Ideup,consulting,25.0,$0,ESP,Las Rozaas,"Complejo Europa Empresarial. C/Playa de Liencres 2, Edificio Londres.",28230,,
+West-Age Web Services,network_hosting,,$0,USA,Vista,1611-A South Melrose Drive,92081,33.1658122,-117.24652
+Eastmedia,mobile,,$0,USA,New York,144 W. 37th Street,10018,40.752409,-73.988676
+Pixel Spills,consulting,1.0,$0,USA,Jackson,,83001,43.479618,-110.762347
+Programming Designs,public_relations,1.0,$0,,,,,,
+Daddy Design,other,3.0,$0,USA,Miami,1000 Quayside Terr,33138,25.873778,-80.168399
+AdVerit,advertising,50.0,$0,ARG,Martinez,Alvear 257,1640,-34.4725563,-58.5128212
+Duck On Water,advertising,,$0,GBR,Cirencester,2c Leaholme House,GL7 1EH,,
+SHpartners,software,17.0,$0,BEL,Gent,Kortrijksesteenweg 1099a,9051,51.0198642,3.6820756
+CreationFlow,games_video,4.0,$150k,ARG,Ciudad de Buenos Aires,Vera 15 3-B,1414,-34.6028583,-58.4339539
+Quality Web Solutions,advertising,300.0,$0,IND,Kolkata,"Y8, Block - EP, Sector V",700091,,
+Scandia Consulting,consulting,2.0,$0,USA,Brooklyn,136 Allen Hill Rd,06234,41.7913964,-71.9157815
+Extreme Enterprises,enterprise,24.0,$1.46M,USA,St Petersburg,7019 1st Ave South,33707,27.770221,-82.735899
+SNR Technologies,web,8.0,$0,IND,Chennai,Old No 6 New No 15,600010,,
+SoftFacade,consulting,25.0,$0,USA,New York,"1133 Broadway, Suite 1124",10010,,
+Mirage-Net,public_relations,3.0,$0,,,,,,
+Growth Spark,software,,$0,USA,Cambridge,1035 Cambridge Street,02141,,
+Citex Software,software,9.0,$0,EGY,Giza,4 Dr. Soliman Square,12311,,
+Wiretree,other,,$0,USA,Atlanta,,,33.754487,-84.389663
+Rhxo Technology Group,software,35.0,$0,USA,New York,730 Fifth Ave.,10019,40.762897,-73.974714
+NetAsturias Internet,web,10.0,$0,ESP,Infiesto (Asturias),Covadonga 12,33530,43.3459015,-5.36175
+AsturTrade,public_relations,5.0,$0,USA,Charlotte,8808 Hunter Ridge Dr,28226,35.088188,-80.8686385
+UpClick Marketing,advertising,3.0,$0,USA,Leesburg,525-K East Market St.,20176,39.108094,-77.552593
+Ceylon Solutions,software,13.0,$0,USA,Denver,8555 W.Belleview Ave,80123,39.62574,-105.092372
+RocketGenius,web,3.0,$0,USA,virginia beach,po box 2976,23450,36.8598,-75.9812
+Blueprint Design Studio,public_relations,10.0,$0,USA,Chicago,435 N Michigan Ave,60611,41.886511,-87.626777
+Period Three,advertising,6.0,$0,USA,Columbia,915 Lady Street,29210,34.001767,-81.038477
+Pacecode Technologies,consulting,25.0,$0,IND,chennai,"16b, lbroad",600020,,
+Escapio,other,30.0,$0,DEU,Berlin,Am Treptower Park 28,12435,52.4943074,13.434474
+MillerWhite School of Design,other,2.0,$0,,,,,,
+Mission Data,consulting,23.0,$0,USA,Louisville,12910 Shelbyville Road,40243,,
+Sysgen Media,network_hosting,5.0,$0,USA,Northport,81 Scudder Ave,11768,40.899937,-73.347807
+Dean Marshall Consultancy,consulting,5.0,$0,GBR,Lancaster,CityLab,LA1 1PP,,
+Websiteprojects,web,5.0,$0,BEL,Brussels,"Rue D'Egmont, 15",1000,50.8388386,4.3659553
+ikywim creative,advertising,2.0,$0,USA,Winter Park,7369 Grand Ave,32792,28.621704,-81.290729
+Pixelita Designs,web,2.0,$0,USA,Houston,6601 Sylvan Road,77023,29.718868,-95.313311
+Racked Hosting,web,10.0,$0,USA,Fish Creek,4123 Hwy 42,54212,,
+Enough Pepper,web,4.0,$0,PRT,Lisboa,Avenida da Republica,1050-191,38.7509471,-9.1427493
+Digital Bloom,ecommerce,5.0,$0,DEU,Munich,Regerstrasse 27,81541,48.1210729,11.5853709
+doejo,software,9.0,$0,USA,Chicago,N Broadway,60657,41.951198,-87.649563
+Eyedea Lab,other,5.0,$0,IND,Kolkata,,700032,,
+Carrier IQ,mobile,,$42M,USA,Mountain View,1200 Villa Street,94041,37.3955775,-122.0833286
+Search Antigua,search,3.0,$0,ATG,St. John's,Newgate Street,,17.1229659,-61.842615
+Vivid Web Graphics,web,,$0,USA,Carlsbad,2258 Aventurine pl.,92009,33.104772,-117.257003
+Code Authority Custom Software,software,20.0,$0,USA,Frisco,3880 Parkwood,75034,33.1119736,-96.8157933
+Bywave,web,10.0,$0,AUS,Surry Hills,"Suite 1, Level 2, 78-84 Kippax St",2010,-33.871118,150.8705
+Phu Concepts,advertising,10.0,$0,USA,Rochester,236 Central Avenue,14605,43.1620203,-77.610583
+vexcom,public_relations,12.0,$0,USA,Roswell,9755 Dogwood Rd,30075,34.016961,-84.329081
+Spoiled Milk,advertising,60.0,$0,DNK,Copenhagen,"Nørrebrogade 52 C, 4 t.v.",DK-2200,55.6886102,12.5587476
+Showtime Studios,public_relations,3.0,$0,GBR,Birmingham,27 Constitution Hill,B19 3LE,52.4869442,-1.9023414
+ProRattaFactor,mobile,1.0,$0,USA,Hawthorne,,,40.95795,-74.161753
+Crea,software,45.0,$0,URY,Montevideo,RÃ­o Negro 1338,11100,-34.9060125,-56.1932857
+Bonefarm Creations,public_relations,3.0,$0,EST,Tallinn,Harju 6,,59.4354282,24.7438773
+Core Factor,web,5.0,$0,PRT,Lisbon,Rua Chaby Pinheiro 15,1000-096,38.7445718,-9.1460977
+Litmus,software,25.0,$0,USA,Cambridge,"675 Mass Ave, Ste 11",02139,,
+Tropica Web Design,web,,$0,,,,,,
+Louisville Web Group,ecommerce,7.0,$0,USA,Louisville,4965 US Highway 42,40222,38.337337,-85.474719
+Vsys Technologies,web,50.0,$0,,,,,,
+Shriv Commedia Solutions Pvt Ltd,software,200.0,$0,IND,Noida,"D-100,",201301,28.5865869,77.3360319
+Unique Blog Designs,advertising,3.0,$50k,USA,Scottsdale,15029 n thompson peak pkwy,85260,33.6220214,-111.8750635
+BooFly,web,1.0,$0,IRL,Monaghan,Rosevale,,54.1239649,-6.7349233
+CryptoNet,network_hosting,4.0,$0,BEL,Holsbeek,# Kaeystraat 8,B-3220,50.915419,4.7438274
+StickyPages,consulting,3.0,$0,CAN,Kelowna,#117-1350 Ridgeway Drive,v1y 9t8,49.8900432,-119.4583914
+MindSmack,games_video,54.0,$0,USA,New York,311 West 43rd Street,10036,40.758492,-73.989987
+the Vital Path Innovations,software,8.0,$0,CAN,Oakville,"165 Cross Avenue, Suite 5",L6J0A9,43.4554329,-79.6848067
+We Are Business,web,2.0,$0,USA,Birmingham,130 Inverness Plaza #253,35242,33.4191513,-86.6960902
+Sand Software Solutions,software,2.0,$0,USA,Madison,6 N Burberry Dr #1016,53719,34.114049,-84.166613
+Transcensus,software,15.0,$0,USA,Orem,448 E 800 N,84097,40.311946,-111.6850207
+MAG STUDIOS,software,30.0,$0,IND,Delhi,Delhi,,28.635308,77.22496
+LSF Design,hardware,2.0,$0,USA,Westford,38 Tenney Road,01886,42.626479,-71.465011
+Pivotal Concept,network_hosting,,$0,USA,Springdale,1796 Lancaster Drive,72762,36.2244458,-94.1483938
+Easy! Designs,web,,$0,USA,Chattanooga,PO Box 4370,37405,35.1503998,-85.4169211
+Kalexo,software,5.0,$0,USA,Burlingame,"533 Airport Blvd, Suite 400",94010,37.589692,-122.340723
+MediaRich,games_video,8.0,$0,USA,San Antonio,918 S Alamo,78205,29.414897,-98.48972
+Nubesis,software,,€130k,ESP,Paterna (Valencia),Agustin Escardino 9,46980,39.5481824,-0.4614394
+dsignz media,web,25.0,$0,IND,"Kodambakkam, Chennai","293, 2nd floor",600024,13.0445424,80.2156162
+magento xperts,ecommerce,20.0,$0,IND,kolkata,salt lake,700064,,
+RadSync,software,20.0,$0,CAN,,,,,
+Zebra Web Design,software,10.0,$0,GBR,Tyne & Wear,Zebra Web Design 65 Westgate Road,NE1 1SG,,
+AW CompuTech,software,,$0,GBR,Coventry,PO Box 5118,CV1 9FN,,
+TechSipders,software,,$0,,,,,,
+Durango Web Pro,other,1.0,$0,USA,Durango,10 Town Plaze Ste 402,81301,37.2735887,-107.8761223
+Netboot,advertising,25.0,$0,ROM,Bucharest,,,44.4479237,26.097879
+Mindfly Web Studio,advertising,11.0,$0,USA,Bellingham,114 W Magnolia St,98225,48.7505449,-122.4803774
+Brady Mills Graphics,advertising,,$0,USA,Nashville,516 Madison Street,37208,36.1749152,-86.7889469
+Hirshorn Zuckerman Design Group,advertising,100.0,$0,USA,New York,,,40.756054,-73.986951
+Foldees,web,3.0,$40k,MYS,Petaling Jaya,"11, Jalan SS22A/6",47400,,
+Point Motive,software,2.0,$0,,,,,,
+eCommerce Positioning,consulting,15.0,$0,USA,everett,1515 75th st sw suite 800,98208,47.931263,-122.255136
+Think BIG Sites,advertising,,$0,USA,Melville,200 Broad Hollow Rd.,11747,40.732076,-73.424968
+Masterpiece,advertising,32.0,$0,GBR,London,109-123 Clifton Street,EC2A 4LD,51.5219131,-0.0833747
+BUGBYTE,software,3.0,$0,NLD,Breda,Oude Vest 4,4811HT,51.5864572,4.7787001
+Blackwave Creative,advertising,5.0,$0,USA,Hoboken,1101 Grand St.,07030,40.8491136,-74.4197213
+Internet Media Marketing,advertising,5.0,$0,,,,,,
+Web Sarga Solutions,ecommerce,,$0,,,,,,
+Devoted Domains,consulting,1.0,$0,,,,,,
+Papp-Art,other,,$0,DEU,DÃ¼sseldorf,,40549,51.233068,6.7190874
+Idea Couture,consulting,200.0,$0,USA,San Francisco,649 Front St.,94111,,
+Peacockish,software,3.0,$0,GBR,Newcastle upon Tyne,Suite 36,NE1 5DW,,
+StudioEmotion,web,12.0,$0,AUS,North Sydney,Woodstock Cottage,2060,,
+Scopial Fashions,web,4.0,$0,IND,Thane West,319,400607,19.2025218,72.9637728
+deBruyn Design + Marketing,advertising,4.0,$0,CAN,,,V4A6T4,49.034602,-122.832125
+Axle IT,network_hosting,15.0,$0,AUS,Queensland,"Milton,",4064,-27.471324,153.004781
+Offside Creative,software,,$0,,,,,,
+3 Unlem Tasarim,web,3.0,$0,,,,,,
+RedMaiden,advertising,1.0,$0,USA,,,,,
+Say Design,games_video,10.0,$0,USA,Aliso Viejo,130 Vantis,92656,33.579204,-117.7293383
+Boring,other,,$0,GBR,London,11-29 Fashion Street,E1 6PX,51.5183725,-0.0740678
+New Media Studio Planman Technologies,other,15.0,$0,IND,New Delhi,okhla ph-1,110020,,
+Verve Creative,web,5.0,$0,USA,West Newton,429 Cherry Street,02465,42.34975,-71.228865
+25 Pixels Media,other,5.0,$0,CRI,san jose,"Country day school, 100 mts north",,,
+Site Mafia Interactive,other,5.0,$0,CAN,Toronto,1172 Bay St.,M5S 2B4,43.6694834,-79.389325
+CMS Critic,web,4.0,$0,CAN,Edmonton,,,53.540941,-113.493698
+D2V,software,,$0,,,,,,
+ProtoShare,software,15.0,$250k,USA,Portland,610 SW Alder Street,97205,45.519475,-122.675255
+Pleth,web,5.0,$0,USA,Batesville,2010 Reynolds,72501,35.7676229,-91.6304572
+Maga Design Group,public_relations,15.0,$0,USA,"Washington, DC",2439 18th St. NW,20009,38.921547,-77.041976
+LogoBopper LLC,other,,$0,,,,,,
+Ashe Media Holdings,web,5.0,$0,USA,,,35476,33.884218,-84.338429
+eNonProfits,consulting,3.0,$0,,,,,,
+TIS India,ecommerce,100.0,$0,USA,Las Vegas,Ramrod Street,89108,36.215329,-115.23662
+Epsilon Concepts,consulting,20.0,$0,USA,Los Angeles,1010 Wilshire Blvd.; Suite 1101,90017,34.051508,-118.262233
+OE Design,web,10.0,$0,AUS,Burleigh Heads,17/79 West Burleigh Rd,4220,-28.085945,153.390945
+Exfront Technologies,consulting,6.0,$0,USA,Dallas,3850 W Northwest Hwy # 4309,75220-5233,32.864024,-96.662332
+Earthenhive Architects,other,12.0,$0,IND,Bangalore,"No.37 SriBhooma, 17th cross,",560055,13.014823,77.6503104
+MetaLab,public_relations,,$0,CAN,"Victoria, British Columbia",1005 Langley St.,V8W 1V7,48.4096766,-123.3476874
+Matt Salik Freelance Design,web,1.0,$0,CAN,Victoria BC,,,48.4275,-123.367259
+Information Architects,public_relations,7.0,$0,,,,,,
+Think Orange,software,4.0,$0,PRT,Lisboa,Rua Rodrigues Faria n 103,1300,38.703497,-9.178734
+Centralino,enterprise,1.0,$0,,,,,,
+Wezz Interactive,public_relations,8.0,$0,NLD,Amsterdam,Panamalaan 3P,1019 AS,52.3692971,4.9339596
+MasterALB Creative,public_relations,4.0,$0,,,,,,
+RegalBuilt,network_hosting,1.0,$0,USA,San Jose,,95123,37.2471229,-121.8277925
+minimalsites,ecommerce,,$0,,,,,,
+Phase 3 Solution,consulting,15.0,$0,BGD,Dhaka,"Road - 1, House-1, Block- b",1216,,
+Digitaria,advertising,90.0,$0,USA,San Diego,350 10th Ave,10014,,
+MJD Interactive,,,$0,USA,San Diego,4502 Casst Street #208,92109,,
+Mindgruve,web,40.0,$0,USA,San Diego,1018 8th Avenue,92101,32.7160497,-117.1574252
+SX Entertainment,games_video,3.0,$0,,,,,,
+Embitel,ecommerce,65.0,$0,DEU,Stuttgart,RommelstraÃŸe 11,70376,48.8203534,9.2031939
+Handbags4Hunger,ecommerce,1.0,$0,USA,Oshkosh,,,44.022448,-88.546142
+eTutorWorld Corporation,ecommerce,50.0,$0,,,,,,
+sinhasoft,software,20.0,$0,,,,,,
+Buildor,web,2.0,$0,,,,,,
+Yanko Design,public_relations,13.0,$0,,,,,,
+Cat on the Couch Productions,consulting,6.0,$0,USA,Essex Junction,12 Sugartree Lane,05452,44.494617,-73.098396
+Imagination Plus,ecommerce,12.0,$0,CAN,Hamilton,44 Hughson South,L8N 2A7,43.2546154,-79.8685313
+Hope Tech Global,security,,$0,CHN,Beijing,"Wangjing Xiyuan Building 401, Room 1212",100102,,
+Outso,web,,$0,GBR,Nottingham,Sutton Place,NG1 1LX,,
+Serpslogic,other,22.0,$0,IND,New Delhi,,110067,,
+Lakeshore Branding,web,6.0,$0,USA,Green Cove Springs,411 Walnut Street,42043,41.880356,-87.630144
+Your Design Online,web,10.0,$0,USA,ATLANTA,"4780 ASHFORD DUNWOODY RD, A-494",30338,33.9349004,-84.3378955
+BlogHelpr,consulting,5.0,$0,,,,,,
+Tilted Pixel,software,4.0,$0,CAN,Waterloo,279 Weber St N Unit 30,N2J 3H8,43.4796149,-80.5212876
+WebFeathers,web,2.0,$0,USA,Palo Cedro,21788 Mel Mar Dr.,96073,40.5433263,-122.2406391
+Nosco,network_hosting,3.0,$0,HRV,Zagreb,Markusevecka cesta 115,10000,45.8708777,16.003871
+Nobis Interactive,other,,$0,,,,,,
+Pixelperfx,advertising,3.0,$0,,,,,,
+Webteilchen,web,2.0,$0,DEU,Berlin,Greifswalder Str. 4,10779,52.5296736,13.6281888
+BrandBucket,web,,$0,USA,Los Angeles,8391 Beverly Blvd 449,90048,,
+Limewheel Creative,consulting,3.0,$0,CAN,Vancouver,912-525 Seymour Street,V6B 3H7,,
+Hayen Company,games_video,1.0,$0,USA,Columbia,1825 Saint Julian Pl.,29204,34.019114,-81.004871
+Bamboudesign,mobile,2.0,$0,USA,San Francisco,123 10th Street,94103,37.775087,-122.415199
+CSSAGlobal,software,135.0,$0,IND,Pune,"4th Floor Shrimant Peshwai,",411030,,
+3D Ace Studio,games_video,,$0,,,,,,
+Centralis,consulting,6.0,$0,USA,Evanston,2822 Central Street,60201,42.0644028,-87.7135479
+Red Engineering Design,consulting,100.0,$0,GBR,London,Woolverstone House,W1T 3NJ,51.5234209,-0.1398614
+Apex Software,software,15.0,$0,USA,Lawrenceville,2210 Lebanon Road,30043,33.991787,-84.068835
+Banyan Branch,news,41.0,$1.7M,USA,Seattle,"2030 1st Ave, 3rd Floor",98121,,
+Irish Web Developers,ecommerce,5.0,$0,IRL,Cavan,5 Keadue,none,,
+PERCUSSA,hardware,10.0,$0,BEL,Mere,,9420,50.9228106,3.9712962
+Keylex Internet Solutions,ecommerce,,$0,USA,Teaneck,145 Ayers Ct,07666,40.902116,-74.004226
+Ahlera,public_relations,4.0,$0,URY,Montevideo,Juan Paullier 1280,11200,-34.8910198,-56.1702161
+Brice Cheddarn Development,consulting,1.0,$0,,,,,,
+Episode XI Studios,photo_video,4.0,$0,USA,Charlotte,"3415 Westinghouse Blvd., Ste. 11",28273,,
+Zooppa,advertising,25.0,$0,USA,Seattle,911 Western Avenue,98104,,
+Huge,consulting,600.0,$0,USA,Brooklyn,45 Main Street,11201,40.7028474,-73.9906813
+Oriental-Creations,ecommerce,6.0,$90k,UZB,Tashkent,"Babur str., 10/29",100100,,
+Intellwiz,software,4.0,$0,IND,Idukki,Government Engineering College Idukki,689647,,
+Netbiscuits,mobile,145.0,$27M,DEU,Kaiserslautern,Europaallee 10,67657,49.4559965,7.8068522
+inQbation,web,15.0,$0,USA,Herndon,2214 Rock Hill Road,20170,38.9552797,-77.3381855
+Electronic Ink,consulting,70.0,$0,USA,Philadelphia,One South Broad Street,19107,39.951101,-75.163762
+ExteNet Systems,network_hosting,39.0,$156M,USA,Lisle,3030 Warrenville Road,60532,41.8089007,-88.1132884
+NetroStar,ecommerce,10.0,$0,USA,Miami,260 NE 17th Terrace,33132,25.7922516,-80.1892904
+Baytech Webs,advertising,50.0,$0,,,,,,
+Jingle Infotech Limited,software,35.0,$0,,,,,,
+dmax creative,network_hosting,10.0,$0,,,,,,
+Graticle,design,1.0,$0,USA,Ellensburg,100 E. Third Ave. #373,98926,45.7968414,-122.6931439
+Eton Digital,web,55.0,$0,GBR,,,,,
+Servicios Netosfera,software,7.0,$0,VEN,Caracas,"Calle La Iglesia, C.C. Minicentro Prado, Local 06",1080,,
+Techvensys,network_hosting,24.0,$0,,,,,,
+bwired,software,30.0,$0,AUS,Melbourne,348 High St,3181,-37.857674,145.037319
+Sagacious Softwares,ecommerce,15.0,$0,IND,Gurgaon,"2nd Floor, NM 4&5, OLD DLF",122001,35.201649,-106.607947
+Callender Creates,public_relations,2.0,$0,GBR,Hove,The Werks,BN3 3BE,,
+Monderer Design,public_relations,4.0,$0,USA,Cambridge,2067 Massachusetts Ave,02140,42.3912548,-71.1228802
+CitySwift,web,2.0,$0,GBR,Sittingbourne,Wises Oast Business Centre,ME9 8LR,,
+TR Design,public_relations,9.0,$0,,,,,,
+Emmaus Designs,other,6.0,$0,USA,Lake Wales,23781 US Hwy 27,33859,27.927025,-81.607259
+n3w media,consulting,,$0,GBR,Milton Keynes,Norfolk House East,MK9 2AH,,
+Magnifi Online,advertising,,$0,USA,Littleton,9837 Burberry Way,80129,32.7845701,-117.1283599
+BackTwounds,other,,$0,,,,,,
+Easel,web,,$0,USA,,,,,
+Miami Web Design,consulting,5.0,$0,,,,,,
+NecesCity,web,4.0,$0,HKG,Hong Kong,"3/F, 6 Tank Lane",,22.334148,114.150564
+Fuelhaus Strategic Design,web,10.0,$0,,,,,,
+Fan,consulting,10.0,$0,ARG,Mar del Plata,9 de Julio 3485,,-37.9924155,-57.5538238
+Softechstratgegies,ecommerce,,$0,,,,,,
+UiDIGITAL,consulting,12.0,$0,,,,,,
+Gnodal,network_hosting,33.0,$2.19M,GBR,Bristol,178-180 Hotwell Road,BS8 4RP,,
+PLAVEB Corporation,consulting,51.0,$0,USA,Burbank,1612 W. Olive Ave.,91506,34.1676412,-118.3227223
+Design215,web,,$0,USA,Fort Lauderdale,3015 N Ocean Blvd.,33308,26.165709,-80.1007858
+CxT Group,software,9.0,$0,USA,Bloomfield Hills,2415 E. Hammond Lake Dr,48302,42.605626,-83.319932
+amigura,software,,$0,,,,,,
+MARS media,ecommerce,10.0,$0,NLD,Amsterdam,Paalbergweg 11,1105 AG,52.2986042,4.9549211
+Pro-Technologies,consulting,5.0,$0,PAK,Islamabad,94 Nazimuddin Road,44000,33.6806501,73.000806
+360innovate,search,15.0,$0,,,,,,
+Pigmata Media,software,5.0,$5k,PHL,Makati,1177 Chino Roces Ave. Suite 4A,1203,14.5359294,121.0211311
+Design Your Dorm,web,,$0,,,,,,
+Fractured Studios,software,8.0,$0,,,,,,
+Advertising Solutions,search,5.0,$0,,,,,,
+ParableSoft,software,3.0,$0,USA,Tampa,3323 W Cypress Street,33607,27.952334,-82.4992
+pingVision,consulting,16.0,$0,USA,Boulder,4450 Arapahoe Ave Ste 100,80303,40.0146417,-105.2387032
+Circlepad,network_hosting,,$0,,,,,,
+Primediart,software,10.0,$0,IND,Kolkata,211/1 Canal Street,700048,22.5985389,88.40286
+Acanthus Infotech,web,10.0,$0,IND,Chennai,,600044,,
+Don't Blink Design,consulting,6.0,$0,USA,Santa Monica,701 Santa Monica Blvd,90401,34.019122,-118.492268
+3D Creation Lab,other,1.0,$0,GBR,"Portishead, Bristol","Kestrel Court,",BS20 7AN,,
+Logomyway,other,3.0,$0,,,,,,
+Woobius,enterprise,2.0,$0,,,,,,
+Focus-online,ecommerce,,$0,,,,,,
+Davyin Internet Solutions,web,20.0,$0,CHN,Shanghai,"Room 311, Bldg.2, No.900, North Zhongshan road,",200070,31.2366983,121.4137257
+Covet Shop,ecommerce,2.0,$0,USA,New York,21 East 7th Street,10003,40.72874,-73.989324
+Web Design Bangkok,ecommerce,12.0,$0,THA,Bangkok,19/57 Sukhumvit Suites,10110,,
+Enhanced Automation,other,,$0,USA,Menomonee Falls,W136 N5239 Campbell Court,53051,43.113262,-88.080445
+SEOhaus,advertising,12.0,$0,,,,,,
+PoLR,search,5.0,$0,GBR,Glasgow,540-541 Baltic Chambers,G2 6HJ,,
+HotSpot Technologies,network_hosting,3.0,$0,,,,,,
+Cyber-Duck,ecommerce,23.0,$0,GBR,Elstree,12 High Street,WD6 3EP,,
+ATILUS,ecommerce,4.0,$0,,,,,,
+BitMethod,mobile,6.0,$50k,USA,Des Moines,418 6th Avenue,50309,41.581232,-93.621998
+Adword Success,advertising,,$0,GBR,Greater London,Ilford,IG4 5DY,51.5807353,0.0499962
+Synesis IT,consulting,,$0,USA,New York,43 W 33rd St,10001,40.748873,-73.987106
+Above the Fold,other,6.0,$0,USA,Cambridge,678 Massachusetts Ave,02139,42.357489,-71.055591
+Copybook Solutions,advertising,50.0,$0,GBR,Tiverton,100 Chapel Street,EX166BU,50.90609,-3.4810902
+Ramp Up Tech,consulting,25.0,$0,USA,New York,153 West 27th Street,10001,40.746514,-73.993035
+Talenthouse,web,34.0,$15.1M,USA,Palo Alto,542 High St,94301,,
+FLYPEANUT Studio,web,7.0,$0,KOR,Seoul,,444-4444,37.56862,127.0263662
+ActiveBox,other,12.0,$0,IDN,Bandung,Jl.Kosar 128 A Ujungberung,40619,-6.903247,107.69033
+iStylista,web,3.0,$0,GBR,Surrey,,,,
+Novelty Systems,consulting,0.0,$0,USA,Gainesville,,32608,29.5950852,-82.4102628
+Max Q Designs,ecommerce,14.0,$0,USA,Melbourne,7007 Wickham Rd,32940,28.2265028,-80.678264
+Fresh Echo Interactive,consulting,11.0,$0,USA,San Diego,1804 Garnet Avenue #455,92109,32.801402,-117.236558
+Ray Websmith,web,,$0,USA,Crystal Lake,6914 Red Barn Road,60012,42.2796339,-88.3339768
+Posh Eyes,ecommerce,3.0,£2k,GBR,Oxford,Westbury House,OX44 7Y/F,51.7300998,-1.2219376
+Shadeland Studios,web,3.0,$0,USA,,,,,
+Baobaz,advertising,60.0,$0,FRA,Paris,22 rue de Palestro,75002,48.8659957,2.351824
+Equator (Scotland) Ltd,ecommerce,,$0,GBR,Glasgow,144 Elliot Street,G3 8EX,,
+Five Online Web Solutions,advertising,,$0,IND,Mumbai,"8, shiv shankar bhuvan",400025,,
+Pure Glow Media,ecommerce,3.0,$0,GBR,Bournemouth,Bourne Hall,BH2 6BW,,
+Scopial,ecommerce,5.0,$0,,,,,,
+Multiso Multimedia Solutions,games_video,1.0,$0,SVN,Celje,Oblakova 7,3000,46.2347396,15.2591055
+Steppy Frog Design Studio,ecommerce,50.0,$0,IND,Chennai,"No:T-53, T-Block, 9th Street",600040,13.1115592,80.226749
+DoNanza,web,10.0,$1M,ISR,Tel Aviv,Gruzenberg Str.,67448,,
+Santhos,public_relations,2.0,$0,,,,,,
+web design companies,software,,$0,,,,,,
+iBizLog,ecommerce,5.0,$0,USA,Las Vegas,PO Box 29502 #17945,89126,36.0122687,-115.4977708
+M4K1,web,,$0,,,,,,
+Personal,mobile,,$21.1M,USA,Washington,1010 Wisconsin Ave. NW,20007,,
+Waveative,consulting,3.0,$0,USA,Houston,,77024,29.7726138,-95.514493
+PromoteWare,web,,$0,USA,,,,,
+Rockstar Memoirs,public_relations,30.0,$0,AUS,North Sydney,Studio 201,2060,,
+Chicago Designz,ecommerce,3.0,$0,,,,,,
+Omikrosys,software,51.0,$0,,,,,,
+Gotham,advertising,,$0,AUS,Sydney,Suite 704,2000,,
+Hurrah,ecommerce,3.0,$0,,,,,,
+Mobile Interactive Group,mobile,120.0,$0,GBR,London,The Tower Building,SE1 7NW,,
+Coskata,cleantech,,$86.2M,USA,Warrenville,"4575 Weaver Parkway, Suite 100",60555,41.8035954,-88.159371
+SpringSoft,software,400.0,$0,USA,San Jose,"2025 Gateway Place, Suite 400",95110,37.37027,-121.924053
+The Graphic Design School,other,8.0,$0,USA,LOS ANGELES,8605 Santa Monica Blvd #21950,90069,34.0878254,-118.3794929
+New Toy,games_video,,$0,GBR,London,The Tower Building,SE1 7NX,,
+MentorMate,software,216.0,$0,USA,Minneapolis,3036 Hennepin Avenue,55408,44.948786,-93.161038
+Cogzidel Technologies,software,70.0,$0,IND,Chennai,"54, Vellalar Street,",600116,,
+Collective Core,other,1.0,$0,USA,Smyrna,P.O. Box 813096,30081,33.8837,-84.5144
+Design Chemical,ecommerce,2.0,$0,THA,Bangkok,582/64 Soi Yu Charoen 7,10310,13.764605,100.5642201
+Catalyst Advertising,advertising,2.0,$0,USA,Columbia,"4611 Hardscrabble Road, Suite 109 PMB 331",29229,,
+Top Rated Website Designers,ecommerce,40.0,$0,USA,Carlsbad,,92008,33.1412124,-117.3205123
+United On-Line,advertising,20.0,$0,GRC,"Galatsi, Attiki",61 Protopapadaki,11147,38.0088251,23.759331
+ITERNOVA,consulting,,$0,ESP,Teruel,Plaza Goya 4 bajos,44001,40.3401332,-1.1059614
+Atlantic BT,web,30.0,$0,USA,Raleigh,8015 Creedmoor Rd. Ste. 101,27613,35.8969064,-78.6806784
+Treehouse,education,55.0,$19.4M,USA,Orlando,,,,
