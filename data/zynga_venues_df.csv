@@ -1,25 +1,16 @@
 name,address,city,category,distance,lat,lon
-CCA Wattis Institute for Contemporary Arts,360 Kansas St,San Francisco,bars,33,37.765297,-122.403953
 Live Sushi Bar,2001 17th St,San Francisco,bars,71,37.7645,-122.403691
-PARAGON Real Estate Group - Potrero Hill,350 Rhode Island St,San Francisco,bars,101,37.765346,-122.402881
 Starbucks,350 Rhode Island St,San Francisco,bars,105,37.765796,-122.403409
 Next Level Clucker San Francisco,450 Rhode Island St,San Francisco,bars,133,37.764592,-122.402908
 Steep Brew,450 Rhode Island St,San Francisco,bars,139,37.7645,-122.402831
-Allegro Coffee Company,450 Rhode Island St,San Francisco,bars,146,37.764435,-122.402827
-Whole Foods,450 Rhode Island St,San Francisco,bars,167,37.764381,-122.40268
 Dos Pinas,251 Rhode Island St,San Francisco,bars,188,37.766745,-122.402533
-Two Sons Sandwiches,2249 17th St,San Francisco,bars,198,37.764407,-122.406194
 Salsa Dance Classes with Tianne Frias,1830 17th St,San Francisco,clubs,202,37.765059,-122.401932
 Metronome Ballroom,1830 17th St,San Francisco,clubs,210,37.764967,-122.401855
-Castle SF,150 San Bruno Ave,San Francisco,clubs,295,37.767811,-122.406108
 Mission Fusion,500 De Haro St,San Francisco,clubs,309,37.763183,-122.401678
 The Great Northern,119 Utah St,San Francisco,clubs,320,37.768066,-122.406625
-Sfsfl,2424 Mariposa St,San Francisco,clubs,371,37.763431,-122.407857
-San Francisco Soccer Football League,2424 Mariposa St,San Francisco,clubs,375,37.763365,-122.407853
 Starbucks,350 Rhode Island St,San Francisco,starbucks,105,37.765796,-122.403409
 Whole Foods,450 Rhode Island St,San Francisco,vegan restaurants,167,37.764381,-122.40268
 Torraku Ramen,300 De Haro St,San Francisco,vegan restaurants,215,37.765801,-122.402047
-Martin de Porres House of Hospitality,225 Potrero Ave,San Francisco,vegan restaurants,310,37.766673,-122.407331
 Peet's Coffee and Tea,2300 16th St,San Francisco,vegan restaurants,458,37.766531,-122.409186
 Downtown High School,693 Vermont St,San Francisco,elementary school,408,37.761475,-122.403943
 International Studies Academy,655 De Haro St,San Francisco,elementary school,455,37.761714,-122.400803
@@ -30,7 +21,6 @@ Creative Arts Charter School,1802 19th St,San Francisco,elementary school,517,37
 Envision Schools,185 Berry St,San Francisco,elementary school,614,37.761812,-122.398659
 Brightworks School,1960 Bryant St,San Francisco,elementary school,631,37.762286,-122.410441
 Community Alliance For Special Education,1550 Bryant St,San Francisco,elementary school,664,37.767522,-122.41118
-Google Cloud Courtside Lounge 25,,San Francisco,basketball stadium,1489,37.768163,-122.387778
 Chase Center Stadium,1 Warriors Way,San Francisco,basketball stadium,1503,37.767924,-122.387478
 United Club,500 Terry A Francois Blvd,San Francisco,basketball stadium,1516,37.767832,-122.387401
 Basketball Court,100 McAllister St,San Francisco,basketball stadium,1974,37.781084,-122.414131
@@ -39,13 +29,4 @@ Kezar Pavilion,755 Stanyan St,San Francisco,basketball stadium,4367,37.767456,-1
 Urban Knights,755 Stanyan St,San Francisco,basketball stadium,4370,37.767521,-122.453892
 Gym Building-SFSU,1600 Holloway Ave,San Francisco,basketball stadium,7978,37.721413,-122.478227
 Cowell Pavilion,,San Francisco,basketball stadium,8286,37.747456,-122.496039
-Peters & Associates,550 15th St,San Francisco,pet grooming,311,37.767475,-122.406231
-Alexander Peter,101 Henry Adams St,San Francisco,pet grooming,336,37.768137,-122.403547
-La Petite Nail Salon,601 Kansas St,San Francisco,pet grooming,347,37.762033,-122.403044
-Jewelry by Peter,101 Utah St,San Francisco,pet grooming,350,37.767855,-122.406397
-Peters J R Co.,1640 17th St,San Francisco,pet grooming,353,37.765059,-122.400212
-La Petite Nail Shop,601 Kansas St,San Francisco,pet grooming,357,37.76206,-122.403117
-Van Peters,101 Utah St,San Francisco,pet grooming,361,37.76792,-122.406401
 Little Buddhas Dog Walking and Pet Sitting,593 Potrero Ave,San Francisco,pet grooming,417,37.762092,-122.406989
-Pet Pal Distribution Corporation,2 Henry Adams St,San Francisco,pet grooming,456,37.769265,-122.404187
-Petcube,555 De Haro St,San Francisco,pet grooming,464,37.762587,-122.400926

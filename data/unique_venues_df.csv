@@ -1,15 +1,23 @@
 name,address,city,category,distance,lat,lon
+Bar Fluxus,18 Harlan Pl,San Francisco,karaoke,427,37.790297,-122.40514
 Sool Bar and Lounge,323 Grant Ave,San Francisco,karaoke,470,37.789993,-122.405695
+Uno Dos Tacos,595 Market St,San Francisco,bars,42,37.789274,-122.400993
 Tequila Mockingbird,86 2nd St,San Francisco,bars,63,37.78812,-122.40028
 Sammy's on 2nd,84 2nd St,San Francisco,bars,64,37.78812,-122.40028
 Luke's Lobster SoMa,92 2nd St,San Francisco,bars,81,37.788038,-122.40006
+House of Shields,39 New Montgomery St,San Francisco,bars,82,37.788276,-122.401221
+The Sentinel,37 New Montgomery St,San Francisco,bars,82,37.788304,-122.401294
 Flatiron Wines & Spirits,2 New Montgomery St,San Francisco,bars,106,37.78806,-122.401495
+Mixt,560 Mission St,San Francisco,bars,125,37.788743,-122.399384
 Palace Hotel,2 New Montgomery St,San Francisco,bars,134,37.788,-122.40185
 111 Minna Gallery,111 Minna St,San Francisco,clubs,172,37.787274,-122.39937
 Harlot,46 Minna St,San Francisco,clubs,186,37.78857,-122.398227
+Meg,1 Sansome St,San Francisco,clubs,258,37.790916,-122.401305
+Local Edition,691 Market St,San Francisco,clubs,266,37.787566,-122.403258
 The Wing San Francisco,115 Sansome St,San Francisco,clubs,281,37.791388,-122.400687
 Rooftop Comedy,530 Howard St,San Francisco,clubs,300,37.788462,-122.397074
 The Wing,115 Sansome St,San Francisco,clubs,302,37.791366,-122.400973
+Temple Nightclub,540 Howard St,San Francisco,clubs,304,37.787893,-122.397255
 Gold Club,650 Howard St,San Francisco,clubs,312,37.785979,-122.399652
 Starbucks,74 New Montgomery St,San Francisco,starbucks,99,37.787664,-122.401113
 Starbucks,44 Montgomery St,San Francisco,starbucks,165,37.789534,-122.401869
@@ -33,7 +41,11 @@ Fang,660 Howard St,San Francisco,vegan restaurants,341,37.785827,-122.399929
 San Ramon Valley Unified School.dst,582 Market St,San Francisco,elementary school,129,37.789453,-122.401649
 Technapex Elementary School,115 Sansome St,San Francisco,elementary school,313,37.791458,-122.40105
 Oxford Elementary School,50 Beale St,San Francisco,elementary school,455,37.791248,-122.396521
+Barbizon School Of San Francisco,369 Sutter St,San Francisco,elementary school,523,37.78938,-122.406448
 Basketball Court,100 McAllister St,San Francisco,basketball stadium,1452,37.781084,-122.414131
+Chase Center Stadium,1 Warriors Way,San Francisco,basketball stadium,2582,37.767924,-122.387478
+United Club,500 Terry A Francois Blvd,San Francisco,basketball stadium,2594,37.767832,-122.387401
+USF - War Memorial Gymnasium,2100 Golden Gate Ave,San Francisco,basketball stadium,4487,37.778096,-122.445491
 Kezar Pavilion,755 Stanyan St,San Francisco,basketball stadium,5242,37.767456,-122.453888
 Urban Knights,755 Stanyan St,San Francisco,basketball stadium,5245,37.767521,-122.453892
 Cowell Pavilion,,San Francisco,basketball stadium,9544,37.747456,-122.496039
@@ -45,27 +57,18 @@ SoMa Animal Hospital,1110 4th St,San Francisco,veterinary,1800,37.773746,-122.39
 Polk Street Animal Hospital,1830 Polk St,San Francisco,veterinary,1902,37.794013,-122.421059
 Fuzzy Pet Health,115 10th St,San Francisco,veterinary,1984,37.775175,-122.415359
 Pet Lifestyle and You,71 Stevenson St,San Francisco,pet grooming,103,37.789307,-122.399704
-CCA Wattis Institute for Contemporary Arts,360 Kansas St,San Francisco,bars,33,37.765297,-122.403953
 Live Sushi Bar,2001 17th St,San Francisco,bars,71,37.7645,-122.403691
-PARAGON Real Estate Group - Potrero Hill,350 Rhode Island St,San Francisco,bars,101,37.765346,-122.402881
 Starbucks,350 Rhode Island St,San Francisco,bars,105,37.765796,-122.403409
 Next Level Clucker San Francisco,450 Rhode Island St,San Francisco,bars,133,37.764592,-122.402908
 Steep Brew,450 Rhode Island St,San Francisco,bars,139,37.7645,-122.402831
-Allegro Coffee Company,450 Rhode Island St,San Francisco,bars,146,37.764435,-122.402827
-Whole Foods,450 Rhode Island St,San Francisco,bars,167,37.764381,-122.40268
 Dos Pinas,251 Rhode Island St,San Francisco,bars,188,37.766745,-122.402533
-Two Sons Sandwiches,2249 17th St,San Francisco,bars,198,37.764407,-122.406194
 Salsa Dance Classes with Tianne Frias,1830 17th St,San Francisco,clubs,202,37.765059,-122.401932
 Metronome Ballroom,1830 17th St,San Francisco,clubs,210,37.764967,-122.401855
-Castle SF,150 San Bruno Ave,San Francisco,clubs,295,37.767811,-122.406108
 Mission Fusion,500 De Haro St,San Francisco,clubs,309,37.763183,-122.401678
 The Great Northern,119 Utah St,San Francisco,clubs,320,37.768066,-122.406625
-Sfsfl,2424 Mariposa St,San Francisco,clubs,371,37.763431,-122.407857
-San Francisco Soccer Football League,2424 Mariposa St,San Francisco,clubs,375,37.763365,-122.407853
 Starbucks,350 Rhode Island St,San Francisco,starbucks,105,37.765796,-122.403409
 Whole Foods,450 Rhode Island St,San Francisco,vegan restaurants,167,37.764381,-122.40268
 Torraku Ramen,300 De Haro St,San Francisco,vegan restaurants,215,37.765801,-122.402047
-Martin de Porres House of Hospitality,225 Potrero Ave,San Francisco,vegan restaurants,310,37.766673,-122.407331
 Peet's Coffee and Tea,2300 16th St,San Francisco,vegan restaurants,458,37.766531,-122.409186
 Downtown High School,693 Vermont St,San Francisco,elementary school,408,37.761475,-122.403943
 International Studies Academy,655 De Haro St,San Francisco,elementary school,455,37.761714,-122.400803
@@ -76,7 +79,6 @@ Creative Arts Charter School,1802 19th St,San Francisco,elementary school,517,37
 Envision Schools,185 Berry St,San Francisco,elementary school,614,37.761812,-122.398659
 Brightworks School,1960 Bryant St,San Francisco,elementary school,631,37.762286,-122.410441
 Community Alliance For Special Education,1550 Bryant St,San Francisco,elementary school,664,37.767522,-122.41118
-Google Cloud Courtside Lounge 25,,San Francisco,basketball stadium,1489,37.768163,-122.387778
 Chase Center Stadium,1 Warriors Way,San Francisco,basketball stadium,1503,37.767924,-122.387478
 United Club,500 Terry A Francois Blvd,San Francisco,basketball stadium,1516,37.767832,-122.387401
 Basketball Court,100 McAllister St,San Francisco,basketball stadium,1974,37.781084,-122.414131
@@ -85,23 +87,4 @@ Kezar Pavilion,755 Stanyan St,San Francisco,basketball stadium,4367,37.767456,-1
 Urban Knights,755 Stanyan St,San Francisco,basketball stadium,4370,37.767521,-122.453892
 Gym Building-SFSU,1600 Holloway Ave,San Francisco,basketball stadium,7978,37.721413,-122.478227
 Cowell Pavilion,,San Francisco,basketball stadium,8286,37.747456,-122.496039
-San Francisco SPCA Veterinary Hospital,201 Alabama St,San Francisco,veterinary,713,37.766769,-122.412067
-Leanne B. Roberts Animal Care Center,201 Alabama St,San Francisco,veterinary,720,37.766861,-122.412144
-Animal Internal Medicine & Specialty Services,600 Alabama St,San Francisco,veterinary,805,37.761456,-122.412327
-San Francisco SPCA Veterinary Hospital Mission Campus,201 Alabama St,San Francisco,veterinary,806,37.767083,-122.413089
-Watt Philip R DVM-Vca San Francisco Veterinary,600 Alabama St,San Francisco,veterinary,809,37.761467,-122.412184
-VCA San Francisco Veterinary Specialists,600 Alabama St,San Francisco,veterinary,828,37.76151,-122.412202
-SAGE Veterinary Centers - San Francisco,600 Alabama St,San Francisco,veterinary,832,37.761445,-122.41247
-Dr Jamie Anderson,600 Alabama St,San Francisco,veterinary,832,37.761445,-122.41247
-VetPronto - Mobile Veterinarians,3150 18th St,San Francisco,veterinary,931,37.762615,-122.414259
-VCA All Pets Hospital,269 S Van Ness Ave,San Francisco,veterinary,1239,37.768956,-122.417643
-La Petite Nail Salon,601 Kansas St,San Francisco,pet grooming,347,37.762033,-122.403044
-Jewelry by Peter,101 Utah St,San Francisco,pet grooming,350,37.767855,-122.406397
 Little Buddhas Dog Walking and Pet Sitting,593 Potrero Ave,San Francisco,pet grooming,417,37.762092,-122.406989
-Pet Pal Distribution Corporation,2 Henry Adams St,San Francisco,pet grooming,456,37.769265,-122.404187
-Petcube,555 De Haro St,San Francisco,pet grooming,464,37.762587,-122.400926
-Pet Cube,10 Arkansas St,San Francisco,pet grooming,473,37.766133,-122.398985
-Petco,2300 16th St,San Francisco,pet grooming,540,37.766509,-122.410332
-Happy Pet Care Services,1600 Bryant St,San Francisco,pet grooming,601,37.767062,-122.410794
-Bernie's Grooming,1419 Bryant St,San Francisco,pet grooming,656,37.768602,-122.410312
-"SF Hound Lounge - Dog Daycare, Boarding, Professional Grooming & Training",2825 Mariposa St,San Francisco,pet grooming,680,37.762833,-122.411405
