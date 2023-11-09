@@ -4,14 +4,14 @@
 
 This repository is designed to find the ideal location for a Gaming company anywhere in the world taking into account the employees requirements. The company has 87 employees and it has the following scheme:
 
-- Everyone in the company is between 25 and 40 and needs after-office venues.
+- Everyone in the company is between 25 and 40 and need after-office venues.
 - 30% of the employees have at least one kid.
 - 20 Designers would like to work near Design companies for meetups and workshops.
-- 20 Account Managers: they need to travel a lot.
+- 5 UI/UX Engineers.
+- 20 Account Managers need to travel a lot.
 - 15 Data Engineers.
-- 10 Frontend Developers, 5 Backend Developers: they like to be near successful tech startups that have raised at least 1 million dollars.
-- 10 Executives: they love Starbucks.
-- 5 UI/UX Engineers
+- 15 Developers, they like to be near successful tech startups that have raised at least 1 million dollars.
+- 10 Executives that love Starbucks.
 - 1 Maintenance manager who would like to be no more than 10km away from a Basketball Stadium.
 - 1 CEO/President, he is vegan.
 - Dog of the office, Dobbie needs a trim once a month.
