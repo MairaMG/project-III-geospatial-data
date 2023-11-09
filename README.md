@@ -1,4 +1,4 @@
-# Project-III.
+# Project-III. Geospatial Data Analysis
 
 ## Overview
 
@@ -30,7 +30,6 @@ This repository is designed to find the ideal location for a Gaming company anyw
 ## Data Source
 
 Mongo DB Dataset: This dataset contains all the information about companies arround the world that will be use to select the ideal office for the gaming company. The fields that will be use for this project are: Name of the company, Category code,  Number of employees, Total money raised, Country, City, Address, Zip code, Latitude and Longitude.
-- [companies.json](data/companies.json)
 
 Foursquare API: To find and collect venues like Starbucks, schools, restaurants, basketball stadiums, etc. 
 
