@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is designed to find the ideal location for a Gaming company anywhere in the world taking into account the employees requirements. The company has 87 employees and this following scheme:
+This repository is designed to find the ideal location for a Gaming company anywhere in the world taking into account the employees requirements. The company has 87 employees and it has the following scheme:
 
 - Everyone in the company is between 25 and 40 and needs after-office venues.
 - 30% of the employees have at least one kid.
