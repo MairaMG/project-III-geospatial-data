@@ -61,7 +61,7 @@ Geocode API: To collect the longitude and latitude data from companies in the Da
 
 - **Weighting Criteria:** I used the Moscow Prioritization method that helped me to categorize and weight my criteria. Finally, my goal was to  fulfill at least 90% of the requirements and not less than 60%.
 
-    !['Moscow'](../project-III-geospatial-data/images/Moscow.png)
+    !['Moscow'](images/Moscow.png)
 
 ## Analysis:
 
